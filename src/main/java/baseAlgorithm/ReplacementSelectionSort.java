@@ -1,3 +1,5 @@
+package baseAlgorithm;
+
 /**
  * create by cherie on 2018/7/18.
  * 置换选择排序
