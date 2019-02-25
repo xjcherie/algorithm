@@ -1,4 +1,4 @@
-package baseAlgorithm;
+package baseSort;
 
 /**
  * create by cherie on 2018/7/15.

@@ -6,6 +6,7 @@ import java.util.regex.Pattern;
 
 /**
  * create by cherie on 2018/12/22.
+ * 函数式编程，单词查找
  */
 public class Word {
 

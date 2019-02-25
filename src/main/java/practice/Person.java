@@ -1,4 +1,4 @@
-package baseAlgorithm;
+package practice;
 
 import java.lang.reflect.Field;
 

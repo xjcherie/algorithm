@@ -1,4 +1,4 @@
-package baseAlgorithm;
+package practice;
 
 /**
  * create by cherie on 2018/10/1.
