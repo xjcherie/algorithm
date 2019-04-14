@@ -85,4 +85,21 @@ public class WordSearch {
 //        }
 //        return false;
 //    }
+
+
+    public static void main(String[] args) {
+        Long i = 1L;
+        System.out.println(i.hashCode());
+        Long h = 11L;
+        System.out.println(h.hashCode());
+
+
+        String str = "haha";
+        System.out.println(str.hashCode());
+
+
+        Boolean flag = true;
+        System.out.println(flag.hashCode());
+
+    }
 }
