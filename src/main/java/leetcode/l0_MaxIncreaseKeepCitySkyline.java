@@ -5,7 +5,7 @@ package leetcode;
  * 保持天际线的最大增量
  * https://leetcode.com/problems/max-increase-to-keep-city-skyline/
  */
-public class l0_MaxIncreaseToKeepCitySkyline {
+public class l0_MaxIncreaseKeepCitySkyline {
 
     private static int maxIncreaseKeepingSkyline(int[][] grid) {
 
