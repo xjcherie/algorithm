@@ -5,12 +5,13 @@ package leetcode;
  * 保持天际线的最大增量
  * https://leetcode.com/problems/max-increase-to-keep-city-skyline/
  */
-public class l0_MaxIncreaseKeepCitySkyline {
+public class L0_MaxIncreaseKeepCitySkyline {
 
     private static int maxIncreaseKeepingSkyline(int[][] grid) {
 
         int[] horizontalArray = new int[grid.length];
         // 获取最大的行数组元素数量
+        // int[] verticalArray = new int[grid[0].length]; // 常规情况
         int verticalNum = 0;
         for (int[] aGrid : grid) {
             verticalNum = verticalNum > aGrid.length ? verticalNum : aGrid.length;
