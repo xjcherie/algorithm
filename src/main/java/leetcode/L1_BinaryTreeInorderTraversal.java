@@ -11,46 +11,46 @@ import java.util.List;
 public class L1_BinaryTreeInorderTraversal {
 
     // 法一：通过递归获取值
-    private static ArrayList<Integer> inorderRecursive(TreeNode node, ArrayList<Integer> intList) {
-        if (node == null) {
-            return intList;
-        }
-        if (node.left != null) {
-            inorderRecursive(node.left, intList);
-        }
-        intList.add(node.val); // 决定了该遍历是前、中、后序遍历的哪一种
-        if (node.right != null) {
-            inorderRecursive(node.right, intList);
-        }
+private static ArrayList<Integer> inorderRecursive(TreeNode node, ArrayList<Integer> intList) {
+    if (node == null) {
         return intList;
     }
+    if (node.left != null) {
+        inorderRecursive(node.left, intList);
+    }
+    intList.add(node.val); // 决定了该遍历是前、中、后序遍历的哪一种
+    if (node.right != null) {
+        inorderRecursive(node.right, intList);
+    }
+    return intList;
+}
 
     // 法二：通过循环获取值
-    private static ArrayList<Integer> inorderIterative(TreeNode root, ArrayList<Integer> intList) {
-        TreeNode node = root;
-        while (node != null) {
-            if (node.left == null) {
-                intList.add(node.val);
-                node = node.right;
-            } else {
-                TreeNode rightNode = node.left;
-                while (rightNode.right != null) {
-                    rightNode = rightNode.right;
-                }
-                TreeNode tempNode = node; // 对节点清理做准备
-                rightNode.right = node;
-                node = node.left;
-                tempNode.left = null;
+private static ArrayList<Integer> inorderIterative(TreeNode root) {
+    ArrayList<Integer> intList = new ArrayList<>();
+    TreeNode node = root;
+    while (node != null) {
+        if (node.left == null) {
+            intList.add(node.val);
+            node = node.right;
+        } else {
+            TreeNode rightNode = node.left;
+            while (rightNode.right != null) {
+                rightNode = rightNode.right;
             }
+            TreeNode tempNode = node; // 对节点清理做准备
+            rightNode.right = node;
+            node = node.left;
+            tempNode.left = null;
         }
-
-        return intList;
     }
+    return intList;
+}
 
     public static void main(String[] args) {
         TreeNode root = createTreeNode();
         List<Integer> recursiveResult = inorderRecursive(root, new ArrayList<>());
-        List<Integer> iterativeResult = inorderIterative(root, new ArrayList<>());
+        List<Integer> iterativeResult = inorderIterative(root);
         System.out.println(recursiveResult);
         System.out.println(iterativeResult);
     }
