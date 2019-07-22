@@ -57,6 +57,7 @@ public class QuickSort {
 
     public static void main(String[] args) {
         int[] recordArray = {25, 34, 45, 32, 34, 12, 29, 64};
+
         quickSort(recordArray, 0, recordArray.length - 1);
         System.out.println(Arrays.toString(recordArray));
     }
