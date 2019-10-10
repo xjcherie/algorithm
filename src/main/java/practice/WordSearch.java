@@ -100,6 +100,6 @@ public class WordSearch {
 
         Boolean flag = true;
         System.out.println(flag.hashCode());
-
+        System.out.println(1);
     }
 }
