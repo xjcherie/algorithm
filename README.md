@@ -1,7 +1,7 @@
 # algorithm
 ## LeetCode Schedule
  #    |Date       | Title         | Solution   |
- -----|-----------|---------------|------------|
+------|-----------|---------------|------------|
  53   | 2020-04-03 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [java](./src/main/java/leetCode/MaximumSubarray.java) |
  202  | 2020-04-02 | [Happy Number](https://leetcode.com/problems/happy-number/) | [java](./src/main/java/leetCode/HappyNumber.java) |
  136  | 2020-04-01 | [Single Number](https://leetcode.com/problems/single-number/) | [java](./src/main/java/leetCode/SingleNumber.java) |
