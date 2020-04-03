@@ -1,16 +1,38 @@
-package leetcode;
+package leetCode;
+
+import org.junit.Test;
 
 /**
- * Created by Cherie on 2019/5/10.
+ * Created by Cherie on 2018/7/15.
  * 两个数相加
  * https://leetcode.com/problems/add-two-numbers/
  */
-public class L3_AddTwoNumbers {
+public class AddTwoNumbers {
 
-    private static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        int extraNum = 0;
-        int sum;
+    private ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        ListNode node1 = l1, node2 = l2, resultNode = null, nextNode = null;
+        int extraNum = 0, val;
+        while (node1 != null || node2 != null) {
+            val = (node1 == null ? 0 : node1.val) + (node2 == null ? 0 : node2.val) + extraNum;
+            extraNum = val / 10;
+            ListNode node = new ListNode(val % 10);
+            if (resultNode != null) {
+                nextNode.next = node;
+            } else {
+                resultNode = node;
+            }
+            nextNode = node;
+            node1 = node1 == null ? null : node1.next;
+            node2 = node2 == null ? null : node2.next;
+        }
+        if (extraNum > 0) {
+            nextNode.next = new ListNode(extraNum);
+        }
+        return resultNode;
+    }
 
+    private ListNode addTwoNumbers1(ListNode l1, ListNode l2) {
+        int extraNum = 0, sum;
         ListNode resultNode = null, nextNode = null, node1 = l1, node2 = l2;
         while (node1 != null || node2 != null) {
             sum = (node1 != null ? node1.val : 0) + (node2 != null ? node2.val : 0) + extraNum;
@@ -38,7 +60,17 @@ public class L3_AddTwoNumbers {
         return resultNode;
     }
 
-    public static void main(String[] args) {
+    static class ListNode {
+        int val;
+        ListNode next;
+
+        ListNode(int x) {
+            val = x;
+        }
+    }
+
+    @Test
+    public void test() {
         ListNode l11 = new ListNode(8);
         ListNode l12 = new ListNode(9);
         ListNode l13 = new ListNode(9);
@@ -52,17 +84,7 @@ public class L3_AddTwoNumbers {
         l22.next = l23;
 
         System.out.println(addTwoNumbers(l11, l21));
-
     }
 
-    static class ListNode {
 
-        int val;
-
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-    }
 }

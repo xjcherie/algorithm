@@ -10,9 +10,9 @@ import java.util.regex.Pattern;
  */
 public class Word {
 
-    static String WORD = "There are many who fear that in the future, AI will do more and more of the jobs done by humans, leaving us without meaningful work.";
+    private static String WORD = "There are many who fear that in the future, AI will do more and more of the jobs done by humans, leaving us without meaningful work.";
 
-    static String REGEX = "\\w+";
+    private static String REGEX = "\\w+";
 
     private static Set<String> NON_WORDS = new HashSet<String>() {{
         add("the");
@@ -44,11 +44,7 @@ public class Word {
             while (m.find()) {
                 String word = m.group().toLowerCase();
                 if (!NON_WORDS.contains(word)) {
-                    if (wordMap.get(word) == null) {
-                        wordMap.put(word, 1);
-                    } else {
-                        wordMap.put(word, wordMap.get(word) + 1);
-                    }
+                    wordMap.merge(word, 1, Integer::sum);
                 }
             }
             return wordMap;
@@ -99,10 +95,10 @@ public class Word {
             SimpleWord.wordFreq(WORD);
         }
 
-//        for (int i = 0; i < 10000; i++) {
-//            FunctionWord.wordFreq(WORD);
-//        }
-//
+        for (int i = 0; i < 10000; i++) {
+            FunctionWord.wordFreq(WORD);
+        }
+
         System.out.println(System.currentTimeMillis() - time);
     }
 

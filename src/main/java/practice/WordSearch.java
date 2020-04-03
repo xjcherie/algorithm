@@ -93,10 +93,8 @@ public class WordSearch {
         Long h = 11L;
         System.out.println(h.hashCode());
 
-
         String str = "haha";
         System.out.println(str.hashCode());
-
 
         Boolean flag = true;
         System.out.println(flag.hashCode());
