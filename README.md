@@ -3,6 +3,9 @@
 
  \#   |Date        | Title         | Solution   |
 ------|------------|---------------|------------|
+      | 2020-04-07 | Counting Elements | [java](./src/main/java/leetCode/CountingElements.java) |
+ 49   | 2020-04-06 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [java](./src/main/java/leetCode/GroupAnagrams.java) |
+ 283  | 2020-04-05 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [java](./src/main/java/leetCode/BestTimeToBuyAndSellStockII.java) |
  283  | 2020-04-04 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [java](./src/main/java/leetCode/MoveZeroes.java) |
  53   | 2020-04-03 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [java](./src/main/java/leetCode/MaximumSubarray.java) |
  202  | 2020-04-02 | [Happy Number](https://leetcode.com/problems/happy-number/) | [java](./src/main/java/leetCode/HappyNumber.java) |

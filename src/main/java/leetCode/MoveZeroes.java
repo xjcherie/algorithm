@@ -2,8 +2,6 @@ package leetCode;
 
 import org.junit.Test;
 
-import java.util.Arrays;
-
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.MatcherAssert.assertThat;
 
@@ -26,7 +24,6 @@ public class MoveZeroes {
         }
         return nums;
     }
-
 
     @Test
     public void test() {
