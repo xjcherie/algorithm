@@ -11,6 +11,15 @@ import static org.hamcrest.MatcherAssert.assertThat;
 public class MiddleOfTheLinkedList {
 
     public ListNode middleNode(ListNode head) {
+        ListNode slow = head;
+        while (head != null && head.next != null) {
+            slow = slow.next;
+            head = head.next.next;
+        }
+        return slow;
+    }
+
+    public ListNode middleNode1(ListNode head) {
         int total = 0;
         ListNode temp = head;
         while (temp.next != null) {
@@ -33,11 +42,19 @@ public class MiddleOfTheLinkedList {
         ListNode node3 = new ListNode(3);
         ListNode node4 = new ListNode(4);
         ListNode node5 = new ListNode(5);
+        ListNode node6 = new ListNode(6);
+        ListNode node7 = new ListNode(7);
+        ListNode node8 = new ListNode(8);
+        ListNode node9 = new ListNode(9);
         node1.next = node2;
         node2.next = node3;
         node3.next = node4;
         node4.next = node5;
-        assertThat(middleNode(node1), equalTo(node3));
+        node5.next = node6;
+        node6.next = node7;
+        node7.next = node8;
+        node8.next = node9;
+        assertThat(middleNode(node1), equalTo(node5));
     }
 
     public class ListNode {
