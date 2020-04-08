@@ -3,6 +3,7 @@
 
  \#   |Date        | Title         | Solution   |
 ------|------------|---------------|------------|
+ 49   | 2020-04-06 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [java](./src/main/java/leetCode/MiddleOfTheLinkedList.java) |
  \#   | 2020-04-07 | Counting Elements | [java](./src/main/java/leetCode/CountingElements.java) |
  49   | 2020-04-06 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [java](./src/main/java/leetCode/GroupAnagrams.java) |
  283  | 2020-04-05 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [java](./src/main/java/leetCode/BestTimeToBuyAndSellStockII.java) |
