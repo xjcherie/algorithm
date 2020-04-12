@@ -3,6 +3,9 @@
 
  \#   |Date        | Title         | Solution   |
 ------|------------|---------------|------------|
+ 1046 | 2020-04-12 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [java](./src/main/java/leetCode/LastStoneWeight.java) |
+ 543  | 2020-04-11 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [java](./src/main/java/leetCode/DiameterOfBinaryTree.java) |
+ 155  | 2020-04-10 | [Min Stack](https://leetcode.com/problems/min-stack/) | [java](./src/main/java/leetCode/MinStack.java) |
  844  | 2020-04-09 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [java](./src/main/java/leetCode/BackspaceStringCompare.java) |
  876  | 2020-04-08 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [java](./src/main/java/leetCode/MiddleOfTheLinkedList.java) |
  \#   | 2020-04-07 | Counting Elements | [java](./src/main/java/leetCode/CountingElements.java) |

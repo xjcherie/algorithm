@@ -7,6 +7,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 /**
  * Created by Cherie on 2020/04/09
+ * https://leetcode.com/problems/backspace-string-compare/
  **/
 public class BackspaceStringCompare {
 

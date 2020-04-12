@@ -1,5 +1,6 @@
 package leetCode;
 
+import leetCode.common.TreeNode;
 import org.junit.Test;
 
 /**
@@ -23,16 +24,6 @@ public class BSTKthSmallestElement {
             }
         }
         return 0;
-    }
-
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
     }
 
     @Test
