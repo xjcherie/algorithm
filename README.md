@@ -3,6 +3,9 @@
 
  \#   |Date        | Title         | Solution   |
 ------|------------|---------------|------------|
+ 238  | 2020-04-15 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [java](./src/main/java/leetCode/ProductOfArrayExceptSelf.java) |
+ \#   | 2020-04-14 | Perform String Shifts | [java](./src/main/java/leetCode/PerformStringShifts.java) |
+ 525  | 2020-04-13 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [java](./src/main/java/leetCode/ContiguousArray.java) |
  1046 | 2020-04-12 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [java](./src/main/java/leetCode/LastStoneWeight.java) |
  543  | 2020-04-11 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [java](./src/main/java/leetCode/DiameterOfBinaryTree.java) |
  155  | 2020-04-10 | [Min Stack](https://leetcode.com/problems/min-stack/) | [java](./src/main/java/leetCode/MinStack.java) |
