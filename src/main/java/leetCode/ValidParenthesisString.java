@@ -16,8 +16,8 @@ public class ValidParenthesisString {
         for (char c : s.toCharArray()) {
             lo += c == '(' ? 1 : -1;
             hi += c != ')' ? 1 : -1;
-            if (hi < 0) break;
-            lo = Math.max(lo, 0);
+            if (hi < 0) break; // 保证了 sum("(" + "*") >= sum(")")
+            lo = Math.max(lo, 0); // 记录"(")不可被抵销的数量
         }
         return lo == 0;
     }
