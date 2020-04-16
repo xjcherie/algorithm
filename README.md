@@ -3,6 +3,7 @@
 
  \#   |Date        | Title         | Solution   |
 ------|------------|---------------|------------|
+ 678  | 2020-04-16 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [java](./src/main/java/leetCode/ValidParenthesisString.java) |
  238  | 2020-04-15 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [java](./src/main/java/leetCode/ProductOfArrayExceptSelf.java) |
  \#   | 2020-04-14 | Perform String Shifts | [java](./src/main/java/leetCode/PerformStringShifts.java) |
  525  | 2020-04-13 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [java](./src/main/java/leetCode/ContiguousArray.java) |
