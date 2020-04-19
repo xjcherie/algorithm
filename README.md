@@ -3,6 +3,9 @@
 
  \#   |Date        | Title         | Solution   |
 ------|------------|---------------|------------|
+ 33   | 2020-04-19 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [java](./src/main/java/leetCode/SearchInRotatedSortedArray.java) |
+ 64   | 2020-04-18 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [java](./src/main/java/leetCode/MinimumPathSum.java) |
+ 200  | 2020-04-17 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [java](./src/main/java/leetCode/NumberOfIslands.java) |
  678  | 2020-04-16 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [java](./src/main/java/leetCode/ValidParenthesisString.java) |
  238  | 2020-04-15 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [java](./src/main/java/leetCode/ProductOfArrayExceptSelf.java) |
  \#   | 2020-04-14 | Perform String Shifts | [java](./src/main/java/leetCode/PerformStringShifts.java) |
