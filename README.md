@@ -3,6 +3,7 @@
 
  \#   |Date        | Title         | Solution   |
 ------|------------|---------------|------------|
+ \#   | 2020-04-21 | Leftmost Column with at Least a One | [java](./src/main/java/leetCode/LeftmostColumnWithAtLeastAOne.java) |
  1008 | 2020-04-20 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [java](./src/main/java/leetCode/ConstructBinarySearchTreeFromPreorderTraversal.java) |
  33   | 2020-04-19 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [java](./src/main/java/leetCode/SearchInRotatedSortedArray.java) |
  64   | 2020-04-18 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [java](./src/main/java/leetCode/MinimumPathSum.java) |
