@@ -3,6 +3,8 @@
 
  \#   |Date        | Title         | Solution   |
 ------|------------|---------------|------------|
+ 201  | 2020-04-23 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [java](./src/main/java/leetCode/BitwiseANDOfNumbersRange.java) |
+ 1008 | 2020-04-22 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [java](./src/main/java/leetCode/ConstructBinarySearchTreeFromPreorderTraversal.java) |
  \#   | 2020-04-21 | Leftmost Column with at Least a One | [java](./src/main/java/leetCode/LeftmostColumnWithAtLeastAOne.java) |
  1008 | 2020-04-20 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [java](./src/main/java/leetCode/ConstructBinarySearchTreeFromPreorderTraversal.java) |
  33   | 2020-04-19 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [java](./src/main/java/leetCode/SearchInRotatedSortedArray.java) |
