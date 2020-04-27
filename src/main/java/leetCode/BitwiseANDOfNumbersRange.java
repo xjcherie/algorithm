@@ -16,7 +16,7 @@ public class BitwiseANDOfNumbersRange {
             return 0;
         }
         while (n > m) {
-            n = n & (n - 1);
+            n &= (n - 1);
         }
         return n;
     }

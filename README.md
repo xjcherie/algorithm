@@ -3,6 +3,10 @@
 
  \#   |Date        | Title         | Solution   |
 ------|------------|---------------|------------|
+ 221  | 2020-04-27 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [java](./src/main/java/leetCode/MaximalSquare.java) |
+ 1143 | 2020-04-26 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [java](./src/main/java/leetCode/LongestCommonSubsequence.java) |
+ 55   | 2020-04-25 | [Jump Game](https://leetcode.com/problems/jump-game/) | [java](./src/main/java/leetCode/JumpGame.java) |
+ 146  | 2020-04-24 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [java](./src/main/java/leetCode/LRUCache.java) |
  201  | 2020-04-23 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [java](./src/main/java/leetCode/BitwiseANDOfNumbersRange.java) |
  1008 | 2020-04-22 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [java](./src/main/java/leetCode/ConstructBinarySearchTreeFromPreorderTraversal.java) |
  \#   | 2020-04-21 | Leftmost Column with at Least a One | [java](./src/main/java/leetCode/LeftmostColumnWithAtLeastAOne.java) |
