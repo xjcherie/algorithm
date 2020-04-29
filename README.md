@@ -3,6 +3,7 @@
 
  \#   |Date        | Title         | Solution   |
 ------|------------|---------------|------------|
+ 124  | 2020-04-29 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [java](./src/main/java/leetCode/BinaryTreeMaximumPathSum.java) |
  \#   | 2020-04-28 | First Unique Number | [java](./src/main/java/leetCode/FirstUnique.java) |
  221  | 2020-04-27 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [java](./src/main/java/leetCode/MaximalSquare.java) |
  1143 | 2020-04-26 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [java](./src/main/java/leetCode/LongestCommonSubsequence.java) |

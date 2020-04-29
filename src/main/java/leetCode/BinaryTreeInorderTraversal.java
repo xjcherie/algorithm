@@ -1,5 +1,6 @@
 package leetCode;
 
+import leetCode.common.TreeNode;
 import org.junit.Test;
 
 import java.util.ArrayList;
@@ -58,9 +59,6 @@ public class BinaryTreeInorderTraversal {
         System.out.println(iterativeResult);
     }
 
-    /**
-     * 获取测试树节点
-     */
     private TreeNode createTreeNode() {
         TreeNode root = new TreeNode(0);
         TreeNode node1 = new TreeNode(1);
@@ -78,16 +76,4 @@ public class BinaryTreeInorderTraversal {
         return root;
     }
 
-    /**
-     * 树节点类定义
-     */
-    static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 }
