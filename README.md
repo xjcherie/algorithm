@@ -3,6 +3,13 @@
 
  \#   |Date        | Title         | Solution   |
 ------|------------|---------------|------------|
+ 169  | 2020-05-06 | [Majority Element](https://leetcode.com/problems/majority-element/) | [java](./src/main/java/leetCode/MajorityElement.java) |
+ 387  | 2020-05-05 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [java](./src/main/java/leetCode/FirstUniqueCharacterInAString.java) |
+ 476  | 2020-05-04 | [Number Complement](https://leetcode.com/problems/number-complement/) | [java](./src/main/java/leetCode/NumberComplement.java) |
+ 383  | 2020-05-03 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [java](./src/main/java/leetCode/RansomNote.java) |
+ 771  | 2020-05-02 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [java](./src/main/java/leetCode/JewelsAndStones.java) |
+ 278  | 2020-05-01 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [java](./src/main/java/leetCode/FirstBadVersion.java) |
+ \#   | 2020-04-30 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | [java](./src/main/java/leetCode/CheckStringIsAValidSequence.java) |
  124  | 2020-04-29 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [java](./src/main/java/leetCode/BinaryTreeMaximumPathSum.java) |
  \#   | 2020-04-28 | First Unique Number | [java](./src/main/java/leetCode/FirstUnique.java) |
  221  | 2020-04-27 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [java](./src/main/java/leetCode/MaximalSquare.java) |
