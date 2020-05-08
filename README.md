@@ -3,6 +3,7 @@
 
  \#   |Date        | Title         | Solution   |
 ------|------------|---------------|------------|
+ 1232 | 2020-05-08 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [java](./src/main/java/leetCode/CheckIfItIsAStraightLine.java) |
  993  | 2020-05-07 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [java](./src/main/java/leetCode/CousinsInBinaryTree.java) |
  169  | 2020-05-06 | [Majority Element](https://leetcode.com/problems/majority-element/) | [java](./src/main/java/leetCode/MajorityElement.java) |
  387  | 2020-05-05 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [java](./src/main/java/leetCode/FirstUniqueCharacterInAString.java) |
