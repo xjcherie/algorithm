@@ -1,8 +1,32 @@
 # algorithm
 ## LeetCode Schedule
 
- \#   |Date        | Title         | Solution   |
-------|------------|---------------|------------|
+ \#   |Date        | Title         | Solution   | *          |
+------|------------|---------------|------------|------------|
+ 72   | 2020-05-31 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [java](src/main/java/leetCode/EditDistance.java) | * |
+ 973  | 2020-05-30 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [java](src/main/java/leetCode/KClosestPointsToOrigin.java) |
+ 207  | 2020-05-29 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [java](src/main/java/leetCode/CourseSchedule.java) | * |
+ 338  | 2020-05-28 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [java](src/main/java/leetCode/CountingBits.java) |
+ 11   | 2020-05-27 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [java](src/main/java/leetCode/ContainerWithMostWater.java) |
+ 886  | 2020-05-27 | [PossibleBipartition](https://leetcode.com/problems/possible-bipartition/) | [](src/main/java/leetCode/PossibleBipartition.java) |
+ 525  | 2020-05-26 |  |  |
+ 1035 | 2020-05-25 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [](src/main/java/leetCode/UncrossedLines.java) |
+ 1008 | 2020-05-24 |  |  |
+ 986  | 2020-05-23 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [](src/main/java/leetCode/IntervalListIntersections.java) |
+ 451  | 2020-05-22 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [](src/main/java/leetCode/SortCharactersByFrequency.java) |
+ 1277 | 2020-05-21 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [](src/main/java/leetCode/CountSquareSubmatricesWithAllOnes.java) |
+ 230  | 2020-05-20 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [](src/main/java/leetCode/KthSmallestElementInABST.java) |
+ 901  | 2020-05-19 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [](src/main/java/leetCode/StockSpanner.java) |
+ 567  | 2020-05-18 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [java](src/main/java/leetCode/PermutationInString.java) |
+ 438  | 2020-05-17 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [java](src/main/java/leetCode/FindAllAnagramsInAString.java) |
+ 328  | 2020-05-16 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [](src/main/java/leetCode/OddEvenLinkedList.java) |
+ 918  | 2020-05-15 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [java](src/main/java/leetCode/MaximumSumCircularSubarray.java) |
+ 208  | 2020-05-14 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [java](src/main/java/leetCode/Trie.java) |
+ 402  | 2020-05-13 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [java](./src/main/java/leetCode/RemoveKDigits.java) |
+ 733  | 2020-05-12 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [java](./src/main/java/leetCode/SingleElementInASortedArray.java) |
+ 733  | 2020-05-11 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [java](./src/main/java/leetCode/FloodFill.java) |
+ 997  | 2020-05-10 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [java](./src/main/java/leetCode/FindTheTownJudge.java) |
+ 367  | 2020-05-09 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [java](./src/main/java/leetCode/ValidPerfectSquare.java) |
  1232 | 2020-05-08 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [java](./src/main/java/leetCode/CheckIfItIsAStraightLine.java) |
  993  | 2020-05-07 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [java](./src/main/java/leetCode/CousinsInBinaryTree.java) |
  169  | 2020-05-06 | [Majority Element](https://leetcode.com/problems/majority-element/) | [java](./src/main/java/leetCode/MajorityElement.java) |
@@ -11,7 +35,7 @@
  383  | 2020-05-03 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [java](./src/main/java/leetCode/RansomNote.java) |
  771  | 2020-05-02 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [java](./src/main/java/leetCode/JewelsAndStones.java) |
  278  | 2020-05-01 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [java](./src/main/java/leetCode/FirstBadVersion.java) |
- \#   | 2020-04-30 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | [java](./src/main/java/leetCode/CheckStringIsAValidSequence.java) |
+ \#   | 2020-04-30 | Check String Is a Valid Sequence | [java](./src/main/java/leetCode/CheckStringIsAValidSequence.java) |
  124  | 2020-04-29 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [java](./src/main/java/leetCode/BinaryTreeMaximumPathSum.java) |
  \#   | 2020-04-28 | First Unique Number | [java](./src/main/java/leetCode/FirstUnique.java) |
  221  | 2020-04-27 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [java](./src/main/java/leetCode/MaximalSquare.java) |

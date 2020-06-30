@@ -1,5 +1,6 @@
 package leetCode;
 
+import leetCode.common.ListNode;
 import org.junit.Test;
 
 /**
@@ -58,15 +59,6 @@ public class AddTwoNumbers {
             nextNode.next = new ListNode(1);
         }
         return resultNode;
-    }
-
-    static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
     }
 
     @Test
