@@ -1,17 +1,28 @@
 package leetCode;
 
+import java.util.Stack;
+
 /**
  * Created by Cherie on 2020/05/19
  * https://leetcode.com/problems/online-stock-span/
- * todo
  **/
 public class StockSpanner {
 
-    public StockSpanner() {
+    private Stack<Integer> prices, weights;
 
+    public StockSpanner() {
+        prices = new Stack<>();
+        weights = new Stack<>();
     }
 
     public int next(int price) {
-        return 0;
+        int w = 1;
+        while (!prices.isEmpty() && prices.peek() <= price) {
+            prices.pop();
+            w += weights.pop();
+        }
+        prices.push(price);
+        weights.push(w);
+        return w;
     }
 }

@@ -14,10 +14,10 @@
  451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [](src/main/java/leetCode/SortCharactersByFrequency.java) |
  1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [](src/main/java/leetCode/CountSquareSubmatricesWithAllOnes.java) |
  230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [](src/main/java/leetCode/KthSmallestElementInABST.java) |
- 901  | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [](src/main/java/leetCode/StockSpanner.java) |
+ 901  | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [StockSpanner](src/main/java/leetCode/StockSpanner.java) |
  567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [java](src/main/java/leetCode/PermutationInString.java) |
  438  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [java](src/main/java/leetCode/FindAllAnagramsInAString.java) |
- 328  | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [](src/main/java/leetCode/OddEvenLinkedList.java) |
+ 328  | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [java](src/main/java/leetCode/OddEvenLinkedList.java) |
  918  | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [java](src/main/java/leetCode/MaximumSumCircularSubarray.java) |
  208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [java](src/main/java/leetCode/Trie.java) |
  402  | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [java](./src/main/java/leetCode/RemoveKDigits.java) |
