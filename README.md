@@ -12,7 +12,7 @@
  1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [](src/main/java/leetCode/UncrossedLines.java) |
  986  | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [](src/main/java/leetCode/IntervalListIntersections.java) |
  451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [](src/main/java/leetCode/SortCharactersByFrequency.java) |
- 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [](src/main/java/leetCode/CountSquareSubmatricesWithAllOnes.java) |
+ 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [java](src/main/java/leetCode/CountSquareSubmatricesWithAllOnes.java) |
  230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [java](src/main/java/leetCode/KthSmallestElementInABST.java) |
  901  | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [java](src/main/java/leetCode/StockSpanner.java) |
  567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [java](src/main/java/leetCode/PermutationInString.java) |
