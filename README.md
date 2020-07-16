@@ -1,18 +1,29 @@
-# algorithm
+
+## Algorithm Design
+**Dynamic Programming（动态规划，简称DP）**
+
+ \#   | Title         | Solution   | Difficulty |     *      |
+------|---------------|------------|------------|------------|
+ 53   | [Maximum Subarray（最大子序和）](https://leetcode.com/problems/maximum-subarray/) | [java](./src/main/java/leetCode/MaximumSubarray.java) | Easy |
+ 64   | [Minimum Path Sum（最小路径和）](https://leetcode.com/problems/minimum-path-sum/) | [java](./src/main/java/leetCode/MinimumPathSum.java) | Medium |
+ 72   | [Edit Distance（编辑距离）](https://leetcode.com/problems/edit-distance/) | [java](src/main/java/leetCode/EditDistance.java) | Hard |
+ 221  | [Maximal Square（最大正方形）](https://leetcode.com/problems/maximal-square/) | [java](./src/main/java/leetCode/MaximalSquare.java) | Medium |
+ 338  | [Counting Bits （比特位计数）](https://leetcode.com/problems/counting-bits/) | [java](src/main/java/leetCode/CountingBits.java) | Medium |
+ 1143 | [Longest Common Subsequenc（最长公共子序列）](https://leetcode.com/problems/longest-common-subsequence/) | [java](./src/main/java/leetCode/LongestCommonSubsequence.java) | Medium |
+ 1277 | [Count Square Submatrices with All Ones（统计全为1的正方形子矩阵）](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [java](src/main/java/leetCode/CountSquareSubmatricesWithAllOnes.java) | Medium |
+ 
+ 
 ## LeetCode Schedule
 
  \#   | Title         | Solution   | *          |
 ------|---------------|------------|------------|
- 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [java](src/main/java/leetCode/EditDistance.java) | * |
  973  | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [java](src/main/java/leetCode/KClosestPointsToOrigin.java) |
  207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [java](src/main/java/leetCode/CourseSchedule.java) | * |
- 338  | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [java](src/main/java/leetCode/CountingBits.java) |
  11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [java](src/main/java/leetCode/ContainerWithMostWater.java) |
  886  | [PossibleBipartition](https://leetcode.com/problems/possible-bipartition/) | [](src/main/java/leetCode/PossibleBipartition.java) |
- 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [](src/main/java/leetCode/UncrossedLines.java) |
- 986  | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [](src/main/java/leetCode/IntervalListIntersections.java) |
- 451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [](src/main/java/leetCode/SortCharactersByFrequency.java) |
- 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [java](src/main/java/leetCode/CountSquareSubmatricesWithAllOnes.java) |
+ 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [java](src/main/java/leetCode/UncrossedLines.java) | Medium |
+ 986  | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [java](src/main/java/leetCode/IntervalListIntersections.java) |
+ 451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [java](src/main/java/leetCode/SortCharactersByFrequency.java) |
  230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [java](src/main/java/leetCode/KthSmallestElementInABST.java) |
  901  | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [java](src/main/java/leetCode/StockSpanner.java) |
  567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [java](src/main/java/leetCode/PermutationInString.java) |
@@ -36,8 +47,6 @@
  \#   | Check String Is a Valid Sequence | [java](./src/main/java/leetCode/CheckStringIsAValidSequence.java) |
  124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [java](./src/main/java/leetCode/BinaryTreeMaximumPathSum.java) |
  \#   | First Unique Number | [java](./src/main/java/leetCode/FirstUnique.java) |
- 221  | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [java](./src/main/java/leetCode/MaximalSquare.java) |
- 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [java](./src/main/java/leetCode/LongestCommonSubsequence.java) |
  55   | [Jump Game](https://leetcode.com/problems/jump-game/) | [java](./src/main/java/leetCode/JumpGame.java) |
  146  | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [java](./src/main/java/leetCode/LRUCache.java) |
  201  | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [java](./src/main/java/leetCode/BitwiseANDOfNumbersRange.java) |
@@ -45,7 +54,6 @@
  \#   | Leftmost Column with at Least a One | [java](./src/main/java/leetCode/LeftmostColumnWithAtLeastAOne.java) |
  1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [java](./src/main/java/leetCode/ConstructBinarySearchTreeFromPreorderTraversal.java) |
  33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [java](./src/main/java/leetCode/SearchInRotatedSortedArray.java) |
- 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [java](./src/main/java/leetCode/MinimumPathSum.java) |
  200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [java](./src/main/java/leetCode/NumberOfIslands.java) |
  678  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [java](./src/main/java/leetCode/ValidParenthesisString.java) |
  238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [java](./src/main/java/leetCode/ProductOfArrayExceptSelf.java) |
@@ -60,7 +68,6 @@
  49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [java](./src/main/java/leetCode/GroupAnagrams.java) |
  283  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [java](./src/main/java/leetCode/BestTimeToBuyAndSellStockII.java) |
  283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [java](./src/main/java/leetCode/MoveZeroes.java) |
- 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [java](./src/main/java/leetCode/MaximumSubarray.java) |
  202  | [Happy Number](https://leetcode.com/problems/happy-number/) | [java](./src/main/java/leetCode/HappyNumber.java) |
  136  | [Single Number](https://leetcode.com/problems/single-number/) | [java](./src/main/java/leetCode/SingleNumber.java) |
  20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [java](./src/main/java/leetCode/ValidParentheses.java) |
