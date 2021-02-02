@@ -11,6 +11,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 /**
  * Created by Cherie on 2021/1/06
  * https://leetcode-cn.com/problems/reorganize-string/
+ * 提示：相同字母的排列特点，奇偶位置的选择
  **/
 public class ReorganizeString {
 
