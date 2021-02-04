@@ -39,9 +39,6 @@ public class BestTimeToBuyAndSellStockII {
     @Test
     public void test() {
         assertThat(maxProfit(new int[]{7, 1, 5, 3, 6, 4}), equalTo(7));
-        assertThat(maxProfit(new int[]{1, 2, 3, 4, 5}), equalTo(4));
-        assertThat(maxProfit(new int[]{7, 6, 4, 3, 1}), equalTo(0));
-        assertThat(maxProfit(new int[]{6, 1, 3, 2, 4, 7}), equalTo(7));
     }
 
 }

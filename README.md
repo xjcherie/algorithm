@@ -7,6 +7,7 @@
  283  |  1-19 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [java](src/main/java/leetcode/amber2021/BestTimeToBuyAndSellStockII.java) | 
  26   |  1-21 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [java](src/main/java/leetcode/amber2021/RemoveDuplicatesFromSortedArray.java) |
  217  |  2-2  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [java](src/main/java/leetcode/amber2021/february/ContainsDuplicate.java) |
+ 350  |  2-3  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [java](src/main/java/leetcode/amber2021/february/IntersectionOfTwoArraysII.java) |
  | | | | |
  189  |  1-22 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [java](src/main/java/leetcode/amber2021/RotateArray.java) |
  1018 |  1-14 | [可被 5 整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | [java](src/main/java/leetcode/amber2021/PrefixesDivBy5.java) |
@@ -15,7 +16,7 @@
  1203 |  1-12 | [项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) | [java](src/main/java/leetcode/amber2021/SortItems.java) |
  684  |  1-13 | [冗余连接](https://leetcode-cn.com/problems/redundant-connection/) | [java](src/main/java/leetcode/amber2021/RedundantConnection.java) |
  | | | | | 
- 350  |  2-3  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [java](src/main/java/leetcode/amber2021/february/IntersectionOfTwoArraysII.java) |
+ 66   |  2-4  | [加一](https://leetcode-cn.com/problems/plus-one/) | [java](src/main/java/leetcode/amber2021/february/PlusOne.java) |
 
 拓扑排序
 https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/solution/1203-xiang-mu-guan-li-by-leetcode-t63b/
