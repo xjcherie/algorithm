@@ -10,7 +10,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 /**
  * Created by Cherie on 2021/01/14
- * https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/
+ * https://leetcode.com/problems/binary-prefix-divisible-by-5/
  **/
 public class PrefixesDivBy5 {
 

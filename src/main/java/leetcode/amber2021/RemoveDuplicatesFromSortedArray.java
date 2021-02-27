@@ -7,7 +7,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 /**
  * Created by Cherie on 2021/01/21
- * https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
+ * https://leetcode.com/problems/remove-duplicates-from-sorted-array/
  **/
 public class RemoveDuplicatesFromSortedArray {
 

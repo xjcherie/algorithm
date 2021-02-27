@@ -9,7 +9,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 /**
  * Created by Cherie on 2021/01/12
- * https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/
+ * https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
  **/
 public class SortItems {
 

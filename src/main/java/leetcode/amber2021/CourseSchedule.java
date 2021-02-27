@@ -7,7 +7,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 /**
  * Created by Cherie on 2021/01/12
- * https://leetcode-cn.com/problems/course-schedule/
+ * https://leetcode.com/problems/course-schedule/
  * 提示：只要数字间，不存在环即可
  **/
 public class CourseSchedule {

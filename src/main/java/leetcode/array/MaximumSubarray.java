@@ -8,7 +8,7 @@ import static org.junit.Assert.assertThat;
 /**
  * Created by Cherie on 2020/04/03
  * https://leetcode.com/problems/maximum-subarray/
- * https://leetcode-cn.com/problems/maximum-subarray/solution/zui-da-zi-xu-he-by-leetcode/
+ * https://leetcode.com/problems/maximum-subarray/solution/zui-da-zi-xu-he-by-leetcode/
  **/
 public class MaximumSubarray {
 

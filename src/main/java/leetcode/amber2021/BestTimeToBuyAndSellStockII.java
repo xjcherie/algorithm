@@ -7,7 +7,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 /**
  * Created by Cherie on 2021/01/19
- * https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/
+ * https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
  **/
 public class BestTimeToBuyAndSellStockII {
 

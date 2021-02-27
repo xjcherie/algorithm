@@ -7,7 +7,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 /**
  * Created by Cherie on 2021/01/22
- * https://leetcode-cn.com/problems/rotate-array/
+ * https://leetcode.com/problems/rotate-array/
  **/
 public class RotateArray {
 

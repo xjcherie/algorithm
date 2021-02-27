@@ -10,7 +10,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 /**
  * Created by Cherie on 2020/1/7
- * https://leetcode-cn.com/problems/word-ladder/
+ * https://leetcode.com/problems/word-ladder/
  **/
 public class WordLadder {
 
