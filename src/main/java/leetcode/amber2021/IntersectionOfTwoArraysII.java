@@ -1,4 +1,4 @@
-package leetcode.amber2021.february;
+package leetcode.amber2021;
 
 import org.junit.Test;
 

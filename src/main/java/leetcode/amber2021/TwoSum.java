@@ -1,4 +1,4 @@
-package leetcode.amber2021.february;
+package leetcode.amber2021;
 
 /**
  * Created by Cherie on 2021/02/20

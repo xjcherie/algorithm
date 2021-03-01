@@ -7,21 +7,17 @@
  127  | 2021-01-07 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [java](src/main/java/leetcode/amber2021/WordLadder.java) |
  1203 | 2021-01-12 | [Sort Items](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [java](src/main/java/leetcode/amber2021/SortItems.java) |
  684  | 2021-01-13 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [java](src/main/java/leetcode/amber2021/RedundantConnection.java) |
- 36   | 2021-02-19 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [java](src/main/java/leetcode/amber2021/february/ValidSudoku.java) |
- 28   | 2021-02-19 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [java](src/main/java/leetcode/amber2021/february/RotateImage.java) |
- |
- 24   | 2021-02-28 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [java](src/main/java/leetcode/amber2021/february/SwapNodesInPairs.java) |
- 242  | 2021-02-28 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [java](src/main/java/leetcode/amber2021/february/ValidAnagram.java) |
- 49   | 2021-02-28 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [java](src/main/java/leetcode/amber2021/february/GroupAnagrams.java) |
+ 36   | 2021-02-19 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [java](src/main/java/leetcode/amber2021/ValidSudoku.java) |
+ 28   | 2021-02-19 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [java](src/main/java/leetcode/amber2021/RotateImage.java) |
 
 拓扑排序
 https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/solution/1203-xiang-mu-guan-li-by-leetcode-t63b/
 
 ## LeetCode Schedule
 
- \#   | Date       | Title         | Solution   | Difficulty |
-------|------------|---------------|------------|------------|
- --- | --- | **Dynamic Programming** | --- | --- |
+ \#   | Date       | Title         | Solution   | Difficulty | Repeat     |
+------|------------|---------------|------------|------------|------------|
+ --- | --- | **Dynamic Programming** | --- | --- | --- |
  53   | 2020-04-03 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [java](src/main/java/leetcode/array/MaximumSubarray.java) | Easy |
  64   | 2020-04-18 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [java](src/main/java/leetcode/array/MinimumPathSum.java) | Medium |
  72   | 2020-05-31 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [java](src/main/java/leetcode/string/EditDistance.java) | Hard |
@@ -37,15 +33,17 @@ https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/solut
  328  | 2020-05-16 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [java](src/main/java/leetcode/linked_list/OddEvenLinkedList.java) | Medium |
  876  | 2020-04-08 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [java](src/main/java/leetcode/linked_list/MiddleOfTheLinkedList.java) | Easy |
 --- | --- | **Unclassified** | --- | --- |
+ 24   | 2021-02-28 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [java](src/main/java/leetcode/amber2021/SwapNodesInPairs.java) | Medium | * |
+ 242  | 2021-02-28 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [java](src/main/java/leetcode/amber2021/ValidAnagram.java) |
  767  | 2021-01-06 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [java](src/main/java/leetcode/amber2021/ReorganizeString.java) |
  207  | 2021-01-12 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [java](src/main/java/leetcode/amber2021/CourseSchedule.java) |
  122  | 2021-01-19 | [Best Time To Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [java](src/main/java/leetcode/amber2021/BestTimeToBuyAndSellStockII.java) | 
  26   | 2021-01-21 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [java](src/main/java/leetcode/amber2021/RemoveDuplicatesFromSortedArray.java) |
- 217  | 2021-02-02 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [java](src/main/java/leetcode/amber2021/february/ContainsDuplicate.java) |
- 350  | 2021-02-03 | [Intersection Of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [java](src/main/java/leetcode/amber2021/february/IntersectionOfTwoArraysII.java) |
- 66   | 2021-02-04 | [Plus One](https://leetcode.com/problems/plus-one/) | [java](src/main/java/leetcode/amber2021/february/PlusOne.java) |
- 283  | 2021-02-07 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [java](src/main/java/leetcode/amber2021/february/MoveZeroes.java) |
- 1    | 2021-02-20 | [Two Sum](https://leetcode.com/problems/two-sum/) | [java](src/main/java/leetcode/amber2021/february/TwoSum.java) |
+ 217  | 2021-02-02 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [java](src/main/java/leetcode/amber2021/ContainsDuplicate.java) |
+ 350  | 2021-02-03 | [Intersection Of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [java](src/main/java/leetcode/amber2021/IntersectionOfTwoArraysII.java) |
+ 66   | 2021-02-04 | [Plus One](https://leetcode.com/problems/plus-one/) | [java](src/main/java/leetcode/amber2021/PlusOne.java) |
+ 283  | 2021-02-07 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [java](src/main/java/leetcode/amber2021/MoveZeroes.java) |
+ 1    | 2021-02-20 | [Two Sum](https://leetcode.com/problems/two-sum/) | [java](src/main/java/leetcode/amber2021/TwoSum.java) |
  109  | 2020-08-18 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [java](src/main/java/leetcode/ConvertSortedListToBinarySearchTree.java) |
  973  | 2020-05-30 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [java](src/main/java/leetcode/heap/KClosestPointsToOrigin.java) |
  207  | 2020-05-31 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [java](src/main/java/leetcode/graph/CourseSchedule.java) | * |
@@ -93,7 +91,7 @@ https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/solut
  155  | 2020-04-10 | [Min Stack](https://leetcode.com/problems/min-stack/) | [java](src/main/java/leetcode/stack/MinStack.java) |
  844  | 2020-04-09 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [java](src/main/java/leetcode/stack/BackspaceStringCompare.java) |
  \#   | 2020-04-07 | Counting Elements | [java](src/main/java/leetcode/array/CountingElements.java) |
- 49   | 2020-04-06 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [java](src/main/java/leetcode/string/GroupAnagrams.java) |
+ 49   | 2020-04-06，2021-02-28 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [java](src/main/java/leetcode/string/GroupAnagrams.java) |
  122  | 2020-04-05 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [java](src/main/java/leetcode/array/BestTimeToBuyAndSellStockII.java) |
  283  | 2020-04-04 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [java](src/main/java/leetcode/array/MoveZeroes.java) |
  202  | 2020-04-02 | [Happy Number](https://leetcode.com/problems/happy-number/) | [java](src/main/java/leetcode/hash_table/HappyNumber.java) |
