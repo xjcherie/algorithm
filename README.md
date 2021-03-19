@@ -16,8 +16,8 @@ https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/solut
 
 ## LeetCode Schedule
 
- \#   | Date       | Title         | Solution   | Difficulty | Repeat     |
-------|------------|---------------|------------|------------|------------|
+ \#   | Date       | Title         | Solution   | Difficulty |
+------|------------|---------------|------------|------------|
  1    | 2021-02-20 | Two Sum | [java](src/main/java/leetcode/amber2021/TwoSum.java) |
  2    | 2018-07-15 | Add Two Numbers | [java](src/main/java/leetcode/linked_list/AddTwoNumbers.java) | Medium |
  9    | 2020-03-17 | Palindrome Number | [java](src/main/java/leetcode/math/PalindromeNumber.java) |
@@ -25,7 +25,7 @@ https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/solut
  14   | 2020-03-24 | Longest Common Prefix | [java](src/main/java/leetcode/string/LongestCommonPrefix.java) |
  13   | 2020-03-21 | Roman to Integer | [java](src/main/java/leetcode/string/RomanToInteger.java) |
  20   | 2020-03-24 | Valid Parentheses | [java](src/main/java/leetcode/stack/ValidParentheses.java) |
- 24   | 2021-02-28 | Swap Nodes in Pairs | [java](src/main/java/leetcode/amber2021/SwapNodesInPairs.java) | Medium | * |
+ 24   | 2021-02-28 | Swap Nodes in Pairs | [java](src/main/java/leetcode/amber2021/SwapNodesInPairs.java) | Medium |
  26   | 2021-01-21 | Remove Duplicates From Sorted Array | [java](src/main/java/leetcode/amber2021/RemoveDuplicatesFromSortedArray.java) |
  33   | 2020-04-19 | Search in Rotated Sorted Array | [java](src/main/java/leetcode/array/SearchInRotatedSortedArray.java) |
  36   | 2021-02-19 | Valid Sudoku | [java](src/main/java/leetcode/amber2021/ValidSudoku.java) |
