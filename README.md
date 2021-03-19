@@ -29,7 +29,7 @@ https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/solut
  26   | 2021-01-21 | Remove Duplicates From Sorted Array | [java](src/main/java/leetcode/amber2021/RemoveDuplicatesFromSortedArray.java) |
  33   | 2020-04-19 | Search in Rotated Sorted Array | [java](src/main/java/leetcode/array/SearchInRotatedSortedArray.java) |
  36   | 2021-02-19 | Valid Sudoku | [java](src/main/java/leetcode/amber2021/ValidSudoku.java) |
- 49   | 2020-04-06，2021-02-28 | Group Anagrams | [java](src/main/java/leetcode/string/GroupAnagrams.java) |
+ 49   | 2020-04-06 | Group Anagrams | [java](src/main/java/leetcode/string/GroupAnagrams.java) |
  53   | 2020-04-03 | Maximum Subarray | [java](src/main/java/leetcode/array/MaximumSubarray.java) | Easy |
  55   | 2020-04-25 | Jump Game | [java](src/main/java/leetcode/array/JumpGame.java) |
  64   | 2020-04-18 | Minimum Path Sum | [java](src/main/java/leetcode/array/MinimumPathSum.java) | Medium |
@@ -54,7 +54,7 @@ https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/solut
  202  | 2020-04-02 | Happy Number | [java](src/main/java/leetcode/hash_table/HappyNumber.java) |
  203  | 2020-08-17 | Remove Linked List Elements | [java](src/main/java/leetcode/linked_list/RemoveLinkedListElements.java) | Easy |
  208  | 2020-05-14 | Implement Trie (Prefix Tree) | [java](src/main/java/leetcode/Trie.java) |
- 207  | 2020-05-31, 2021-01-12 | Course Schedule | [java](src/main/java/leetcode/amber2021/CourseSchedule.java) |
+ 207  | 2020-05-31 | Course Schedule | [java](src/main/java/leetcode/amber2021/CourseSchedule.java) |
  217  | 2021-02-02 | Contains Duplicate | [java](src/main/java/leetcode/amber2021/ContainsDuplicate.java) |
  221  | 2020-04-27 | Maximal Square | [java](src/main/java/leetcode/MaximalSquare.java) | Medium |
  230  | 2019-04-24 | Kth Smallest Element in a BST | [java](src/main/java/leetcode/BSTKthSmallestElement.java) |
