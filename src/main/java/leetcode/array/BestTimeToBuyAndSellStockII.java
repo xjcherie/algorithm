@@ -7,10 +7,39 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 /**
  * Created by Cherie on 2020/04/05
- * https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+ * 122. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+ *
+ *  Content: 不限定股票买卖次数，获取最大利润
+ *
  **/
 public class BestTimeToBuyAndSellStockII {
+
     public int maxProfit(int[] prices) {
+        int profit = 0;
+        int leftIndex, rightIndex, index = 0;
+        int length = prices.length;
+
+        while (index < length) {
+            leftIndex = index;
+            while (index < length && prices[leftIndex] >= prices[index]) {
+                leftIndex = index;
+                index++;
+            }
+            rightIndex = leftIndex;
+            while (index < length && prices[rightIndex] <= prices[index]) {
+                rightIndex = index;
+                index++;
+            }
+            if (leftIndex == rightIndex) {
+                index++;
+            }
+
+            profit += Math.max(0, prices[rightIndex] - prices[leftIndex]);
+        }
+        return profit;
+    }
+
+    public int maxProfit1(int[] prices) {
         int index = 0, profit = 0;
         while (index < prices.length) {
             int large = index + 1;
