@@ -14,6 +14,7 @@
  14   | 2020-03-24 | Longest Common Prefix | [java](src/main/java/leetcode/string/LongestCommonPrefix.java) |
  13   | 2020-03-21 | Roman to Integer | [java](src/main/java/leetcode/string/RomanToInteger.java) |
  20   | 2020-03-24 | Valid Parentheses | [java](src/main/java/leetcode/stack/ValidParentheses.java) |
+ 21   | 2022-02-06 | Merge Two Sorted Lists | [java](src/main/java/leetcode/list/MergeTwoSortedLists.java) | Easy |
  24   | 2021-02-28 | Swap Nodes in Pairs | [java](src/main/java/leetcode/SwapNodesInPairs.java) | Medium     |
  26   | 2021-01-21 | Remove Duplicates From Sorted Array | [java](src/main/java/leetcode/array/RemoveDuplicatesFromSortedArray.java) |
  33   | 2020-04-19 | Search in Rotated Sorted Array | [java](src/main/java/leetcode/array/SearchInRotatedSortedArray.java) |
