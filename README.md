@@ -1,19 +1,21 @@
 ## LeetCode Schedule
 
- \#   | Date       | Title         | Solution   | Difficulty |
-------|------------|---------------|------------|------------|
+ \#   | Date       | Title        | Solution   | Difficulty |
+------|------------|--------------|------------|------------|
  1    | 2021-02-20 | Two Sum | [java](src/main/java/leetcode/array/TwoSum.java) |
  2    | 2018-07-15 | Add Two Numbers | [java](src/main/java/leetcode/linked_list/AddTwoNumbers.java) | Medium     |
  3    | 2022-01-25 | Longest Substring Without Repeating Characters | [java](src/main/java/leetcode/string/LongestSubstring.java) | Medium |
  5    | 2022-01-27 | Longest Palindromic Substring | [java](src/main/java/leetcode/string/LongestPalindromicSubstring.java) | Medium |
  6    | 2022-01-29 | Zigzag Conversion | [java](src/main/java/leetcode/string/ZigzagConversion.java) | Medium |
- 7    | 2022-02-02 | Reverse Integer | [java](src/main/java/leetcode/integer/ReverseInteger.java)  | Medium |
+ 7    | 2022-02-02 | Reverse Integer | [java](src/main/java/leetcode/integer/ReverseInteger.java) | Medium |
  8    | 2022-02-06 | String to Integer (atoi) | [java](src/main/java/leetcode/integer/StringToInteger.java) | Medium |
  9    | 2020-03-17 | Palindrome Number | [java](src/main/java/leetcode/math/PalindromeNumber.java) |
  11   | 2020-05-27 | Container With Most Water | [java](src/main/java/leetcode/array/ContainerWithMostWater.java) |
  12   | 2022-02-10 | Integer to Roman | [java](src/main/java/leetcode/integer/IntegerToRoman.java) |
- 14   | 2020-03-24 | Longest Common Prefix | [java](src/main/java/leetcode/string/LongestCommonPrefix.java) |
  13   | 2020-03-21 | Roman to Integer | [java](src/main/java/leetcode/string/RomanToInteger.java) |
+ 14   | 2020-03-24 | Longest Common Prefix | [java](src/main/java/leetcode/string/LongestCommonPrefix.java) |
+ 15   | 2022-02-11 | 3Sum | [java](src/main/java/leetcode/integer/ThreeSum.java) |
+ 16   | 2022-02-11 | 3Sum Closest | [java](src/main/java/leetcode/integer/ThreeSumClosest.java) |
  20   | 2020-03-24 | Valid Parentheses | [java](src/main/java/leetcode/stack/ValidParentheses.java) |
  21   | 2022-02-06 | Merge Two Sorted Lists | [java](src/main/java/leetcode/list/MergeTwoSortedLists.java) | Easy |
  24   | 2021-02-28 | Swap Nodes in Pairs | [java](src/main/java/leetcode/SwapNodesInPairs.java) | Medium     |
