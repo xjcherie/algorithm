@@ -18,6 +18,7 @@
  16   | 2022-02-11 | 3Sum Closest | [java](src/main/java/leetcode/integer/Sum3Closest.java) |
  17   | 2022-02-16 | Letter Combinations of a Phone Number | [java](src/main/java/leetcode/string/LetterCombinationsOfPhoneNumber.java) |
  18   | 2022-02-17 | 4Sum | [java](src/main/java/leetcode/integer/Sum4.java) |
+ 19   | 2022-02-17 | Remove Nth Node From End of List | [java](src/main/java/leetcode/linked_list/RemoveNthNodeFromEndOfList.java) |
  20   | 2020-03-24 | Valid Parentheses | [java](src/main/java/leetcode/stack/ValidParentheses.java) |
  21   | 2022-02-06 | Merge Two Sorted Lists | [java](src/main/java/leetcode/list/MergeTwoSortedLists.java) | Easy |
  24   | 2021-02-28 | Swap Nodes in Pairs | [java](src/main/java/leetcode/SwapNodesInPairs.java) | Medium     |
