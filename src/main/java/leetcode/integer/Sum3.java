@@ -6,7 +6,7 @@ import java.util.*;
  * Created by Cherie on 2022/02/11
  * https://leetcode.com/problems/3sum/
  **/
-public class ThreeSum {
+public class Sum3 {
     public List<List<Integer>> threeSum(int[] nums) {
         if (nums.length < 3) return new ArrayList<>();
 

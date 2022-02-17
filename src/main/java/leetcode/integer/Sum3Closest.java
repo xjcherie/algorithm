@@ -11,7 +11,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
  * Created by Cherie on 2022/02/11
  * https://leetcode.com/problems/3sum-closest/
  **/
-public class ThreeSumClosest {
+public class Sum3Closest {
     public int threeSumClosest(int[] nums, int target) {
         long count = Long.MAX_VALUE - 1, distance = Math.abs(count - target);
         Arrays.sort(nums);
