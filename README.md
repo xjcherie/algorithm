@@ -21,6 +21,7 @@
  19   | 2022-02-17 | Remove Nth Node From End of List | [java](src/main/java/leetcode/linked_list/RemoveNthNodeFromEndOfList.java) |
  20   | 2020-03-24 | Valid Parentheses | [java](src/main/java/leetcode/stack/ValidParentheses.java) |
  21   | 2022-02-06 | Merge Two Sorted Lists | [java](src/main/java/leetcode/list/MergeTwoSortedLists.java) | Easy |
+ 22   | 2022-02-22 | Generate Parentheses | [java](src/main/java/leetcode/string/GenerateParentheses.java) | Medium |
  24   | 2021-02-28 | Swap Nodes in Pairs | [java](src/main/java/leetcode/SwapNodesInPairs.java) | Medium     |
  26   | 2021-01-21 | Remove Duplicates From Sorted Array | [java](src/main/java/leetcode/array/RemoveDuplicatesFromSortedArray.java) |
  33   | 2020-04-19 | Search in Rotated Sorted Array | [java](src/main/java/leetcode/array/SearchInRotatedSortedArray.java) |
