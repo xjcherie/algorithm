@@ -24,6 +24,8 @@
  22   | 2022-02-22 | Generate Parentheses | [java](src/main/java/leetcode/string/GenerateParentheses.java) | Medium |
  24   | 2021-02-28 | Swap Nodes in Pairs | [java](src/main/java/leetcode/SwapNodesInPairs.java) | Medium     |
  26   | 2021-01-21 | Remove Duplicates From Sorted Array | [java](src/main/java/leetcode/array/RemoveDuplicatesFromSortedArray.java) |
+ 27   | 2022-02-22 | Remove Element | [java](src/main/java/leetcode/array/RemoveDuplicatesFromSortedArray.java) |
+ 28   | 2022-02-23 | Implement strStr() | [java](src/main/java/leetcode/string/ImplementStrStr.java) |
  33   | 2020-04-19 | Search in Rotated Sorted Array | [java](src/main/java/leetcode/array/SearchInRotatedSortedArray.java) |
  36   | 2021-02-19 | Valid Sudoku | [java](src/main/java/leetcode/ValidSudoku.java) |
  49   | 2020-04-06 | Group Anagrams | [java](src/main/java/leetcode/string/GroupAnagrams.java) |
