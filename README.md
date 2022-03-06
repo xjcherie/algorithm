@@ -27,7 +27,7 @@
  27   | 2022-02-22 | Remove Element | [java](src/main/java/leetcode/array/RemoveDuplicatesFromSortedArray.java) |
  28   | 2022-02-23 | Implement strStr() | [java](src/main/java/leetcode/string/ImplementStrStr.java) |
  29   | 2022-02-28 | Divide Two Integers | [java](src/main/java/leetcode/integer/DivideTwoIntegers.java) | Medium |
- 31   | 2022-02-28 | Next Permutation | [java](src/main/java/leetcode/array/NextPermutation.java) |
+ 31   | 2022-02-28 | Next Permutation | [java](src/main/java/leetcode/array/NextPermutation.java) | Medium❌ |
  33   | 2020-04-19 | Search in Rotated Sorted Array | [java](src/main/java/leetcode/array/SearchInRotatedSortedArray.java) |
  35   | 2022-03-04 | Search Insert Position | [java](src/main/java/leetcode/array/SearchInsertPosition.java) |
  36   | 2021-02-19 | Valid Sudoku | [java](src/main/java/leetcode/ValidSudoku.java) |
