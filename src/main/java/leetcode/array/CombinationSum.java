@@ -8,13 +8,13 @@ import java.util.List;
 /**
  * Created by Cherie on 2022/March/13
  * https://leetcode.com/problems/combination-sum/
- * Todo: Same case, the Testcase passed, but the submission failed.
  **/
 public class CombinationSum {
 
-    private static List<List<Integer>> ans = new ArrayList<>();
+    private static List<List<Integer>> ans;
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        ans = new ArrayList<>();
         for (int i = 0; i < candidates.length; i++) {
             this.check(candidates, new ArrayList<>(), i, 0, target);
         }
