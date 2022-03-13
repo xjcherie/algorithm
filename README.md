@@ -29,6 +29,7 @@
  29   | 2022-02-28 | Divide Two Integers | [java](src/main/java/leetcode/integer/DivideTwoIntegers.java) | Medium |
  31   | 2022-02-28 | Next Permutation | [java](src/main/java/leetcode/array/NextPermutation.java) | Medium❌ |
  33   | 2020-04-19 | Search in Rotated Sorted Array | [java](src/main/java/leetcode/array/SearchInRotatedSortedArray.java) |
+ 33   | 2022-03-08 | Find First and Last Position of Element in Sorted Array | [java](src/main/java/leetcode/array/FindFirstAndLastPositionOfElementInSortedArray.java) |
  35   | 2022-03-04 | Search Insert Position | [java](src/main/java/leetcode/array/SearchInsertPosition.java) |
  36   | 2021-02-19 | Valid Sudoku | [java](src/main/java/leetcode/ValidSudoku.java) |
  49   | 2020-04-06 | Group Anagrams | [java](src/main/java/leetcode/string/GroupAnagrams.java) |
