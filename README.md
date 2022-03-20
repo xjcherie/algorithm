@@ -33,12 +33,16 @@
  35   | 2022-03-04 | Search Insert Position | [java](src/main/java/leetcode/array/SearchInsertPosition.java) | Medium |
  36   | 2021-02-19 | Valid Sudoku | [java](src/main/java/leetcode/ValidSudoku.java) | Medium |
  38   | 2022-03-13 | Count and Say | [java](src/main/java/leetcode/string/CountAndSay.java) | Medium |
- 39   | 2022-03-13 | Combination Sum | [java](src/main/java/leetcode/array/CombinationSum.java) | Medium❌ |
+ 39   | 2022-03-13 | Combination Sum | [java](src/main/java/leetcode/array/CombinationSum.java) | Medium |
+ 40   | 2022-03-14 | Combination Sum II | [java](src/main/java/leetcode/array/CombinationSumII.java) | Medium❌ |
  49   | 2020-04-06 | Group Anagrams | [java](src/main/java/leetcode/string/GroupAnagrams.java) |
  53   | 2020-04-03 | Maximum Subarray | [java](src/main/java/leetcode/array/MaximumSubarray.java) | Easy       |
  55   | 2020-04-25 | Jump Game | [java](src/main/java/leetcode/array/JumpGame.java) |
+ 58   | 2022-03-20 | Length of Last Word | [java](src/main/java/leetcode/string/LengthOfLastWord.java) | Easy     |
  64   | 2020-04-18 | Minimum Path Sum | [java](src/main/java/leetcode/array/MinimumPathSum.java) | Medium     |
  66   | 2021-02-04 | Plus One | [java](src/main/java/leetcode/PlusOne.java) |
+ 67   | 2021-03-20 | Add Binary | [java](src/main/java/leetcode/string/AddBinary.java) | Easy ❌    |
+ 69   | 2021-03-20 | Sqrt(x) | [java](src/main/java/leetcode/SqrtX.java) | Easy       |
  72   | 2020-05-31 | Edit Distance | [java](src/main/java/leetcode/string/EditDistance.java) | Hard       |
  78   | 2021-03-29 | Subsets | [java](src/main/java/leetcode/array/Subsets.java) |
  82   | 2020-08-14 | Remove Duplicates from Sorted List II | [java](src/main/java/leetcode/linked_list/RemoveDuplicatesFromSortedListII.java) | Medium     |
