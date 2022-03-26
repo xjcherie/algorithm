@@ -35,6 +35,8 @@
  38   | 2022-03-13 | Count and Say | [java](src/main/java/leetcode/string/CountAndSay.java) | Medium |
  39   | 2022-03-13 | Combination Sum | [java](src/main/java/leetcode/array/CombinationSum.java) | Medium |
  40   | 2022-03-14 | Combination Sum II | [java](src/main/java/leetcode/array/CombinationSumII.java) | Medium❌ |
+ 43   | 2022-03-22 | Multiply Strings | [java](src/main/java/leetcode/MultiplyStrings.java) | Medium❌ |
+ 45   | 2022-03-26 | Jump Game II | [java](src/main/java/leetcode/array/JumpGameII.java) | Medium |
  49   | 2020-04-06 | Group Anagrams | [java](src/main/java/leetcode/string/GroupAnagrams.java) |
  53   | 2020-04-03 | Maximum Subarray | [java](src/main/java/leetcode/array/MaximumSubarray.java) | Easy       |
  55   | 2020-04-25 | Jump Game | [java](src/main/java/leetcode/array/JumpGame.java) |
