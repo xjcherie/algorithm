@@ -48,6 +48,7 @@
  72   | 2020-05-31 | Edit Distance | [java](src/main/java/leetcode/string/EditDistance.java) | Hard       |
  78   | 2021-03-29 | Subsets | [java](src/main/java/leetcode/array/Subsets.java) |
  82   | 2020-08-14 | Remove Duplicates from Sorted List II | [java](src/main/java/leetcode/linked_list/RemoveDuplicatesFromSortedListII.java) | Medium     |
+ 83   | 2022-04-03 | Remove Duplicates from Sorted List | [java](src/main/java/leetcode/linked_list/RemoveDuplicatesFromSortedList.java) | Easy     |
  92   | 2020-08-13 | Reverse Linked List II | [java](src/main/java/leetcode/linked_list/ReverseLinkedListII.java) | Medium     |
  94   | 2019-04-16 | Binary Tree Inorder Traversal | [java](src/main/java/leetcode/tree/BinaryTreeInorderTraversal.java) |
  103  | 2021-03-19 | Binary Tree Zigzag Level Order Traversal | [java](src/main/java/leetcode/BinaryTreeZigzagLevelOrderTraversal.java) |
