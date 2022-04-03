@@ -52,6 +52,7 @@
  88   | 2022-04-03 | Merge Sorted Array | [java](src/main/java/leetcode/array/MergeSortedArray.java) | Easy     |
  92   | 2020-08-13 | Reverse Linked List II | [java](src/main/java/leetcode/linked_list/ReverseLinkedListII.java) | Medium     |
  94   | 2019-04-16 | Binary Tree Inorder Traversal | [java](src/main/java/leetcode/tree/BinaryTreeInorderTraversal.java) |
+ 100  | 2022-04-03 | Same Tree | [java](src/main/java/leetcode/tree/SameTree.java) |
  103  | 2021-03-19 | Binary Tree Zigzag Level Order Traversal | [java](src/main/java/leetcode/BinaryTreeZigzagLevelOrderTraversal.java) |
  104  | 2021-03-16 | Maximum Depth of Binary Tree | [java](src/main/java/leetcode/MaximumDepthOfBinaryTree.java) |
  109  | 2020-08-18 | Convert Sorted List to Binary Search Tree | [java](src/main/java/leetcode/ConvertSortedListToBinarySearchTree.java) |
