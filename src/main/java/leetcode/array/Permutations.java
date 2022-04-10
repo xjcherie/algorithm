@@ -12,11 +12,11 @@ public class Permutations {
 
     public List<List<Integer>> permute(int[] nums) {
         result = new HashSet<>();
-        this.test(nums, new LinkedHashSet<>(), nums.length);
+        this.traverse(nums, new LinkedHashSet<>(), nums.length);
         return new ArrayList<>(result);
     }
 
-    private void test(int[] nums, LinkedHashSet<Integer> set, int length) {
+    private void traverse(int[] nums, LinkedHashSet<Integer> set, int length) {
         if (length == set.size()) {
             result.add(new ArrayList<>(set));
             return;
@@ -27,7 +27,7 @@ public class Permutations {
             }
             LinkedHashSet<Integer> newSet = new LinkedHashSet<>(set);
             newSet.add(num);
-            this.test(nums, newSet, length);
+            this.traverse(nums, newSet, length);
         }
     }
 }
