@@ -42,6 +42,7 @@
  48   | 2022-04-10 | Rotate Image | [java](src/main/java/leetcode/array/RotateImage.java) | Medium |
  49   | 2020-04-06 | Group Anagrams | [java](src/main/java/leetcode/string/GroupAnagrams.java) |
  53   | 2020-04-03 | Maximum Subarray | [java](src/main/java/leetcode/array/MaximumSubarray.java) | Easy       |
+ 54   | 2022-04-13 | Spiral Matrix | [java](src/main/java/leetcode/array/SpiralMatrix.java) | Medium       |
  55   | 2020-04-25 | Jump Game | [java](src/main/java/leetcode/array/JumpGame.java) |
  58   | 2022-03-20 | Length of Last Word | [java](src/main/java/leetcode/string/LengthOfLastWord.java) | Easy     |
  64   | 2020-04-18 | Minimum Path Sum | [java](src/main/java/leetcode/array/MinimumPathSum.java) | Medium     |
