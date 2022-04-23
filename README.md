@@ -47,6 +47,7 @@
  56   | 2022-04-13 | Merge Intervals | [java](src/main/java/leetcode/array/MergeIntervals.java) | Medium       |
  57   | 2022-04-13 | Insert Interval | [java](src/main/java/leetcode/array/InsertInterval.java) | Medium       |
  58   | 2022-03-20 | Length of Last Word | [java](src/main/java/leetcode/string/LengthOfLastWord.java) | Easy     |
+ 59   | 2022-04-23 | Spiral Matrix II | [java](src/main/java/leetcode/array/SpiralMatrixII.java) | Easy     |
  64   | 2020-04-18 | Minimum Path Sum | [java](src/main/java/leetcode/array/MinimumPathSum.java) | Medium     |
  66   | 2021-02-04 | Plus One | [java](src/main/java/leetcode/PlusOne.java) |
  67   | 2021-03-20 | Add Binary | [java](src/main/java/leetcode/string/AddBinary.java) | Easy ❌    |
