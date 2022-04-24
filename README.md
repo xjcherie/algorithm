@@ -47,7 +47,7 @@
  56   | 2022-04-13 | Merge Intervals | [java](src/main/java/leetcode/array/MergeIntervals.java) | Medium       |
  57   | 2022-04-13 | Insert Interval | [java](src/main/java/leetcode/array/InsertInterval.java) | Medium       |
  58   | 2022-03-20 | Length of Last Word | [java](src/main/java/leetcode/string/LengthOfLastWord.java) | Easy     |
- 59   | 2022-04-23 | Spiral Matrix II | [java](src/main/java/leetcode/array/SpiralMatrixII.java) | Easy     |
+ 59   | 2022-04-23 | Spiral Matrix II | [java](src/main/java/leetcode/array/SpiralMatrixII.java) | Medium     |
  64   | 2020-04-18 | Minimum Path Sum | [java](src/main/java/leetcode/array/MinimumPathSum.java) | Medium     |
  66   | 2021-02-04 | Plus One | [java](src/main/java/leetcode/PlusOne.java) |
  67   | 2021-03-20 | Add Binary | [java](src/main/java/leetcode/string/AddBinary.java) | Easy ❌    |
@@ -59,7 +59,8 @@
  88   | 2022-04-03 | Merge Sorted Array | [java](src/main/java/leetcode/array/MergeSortedArray.java) | Easy     |
  92   | 2020-08-13 | Reverse Linked List II | [java](src/main/java/leetcode/linked_list/ReverseLinkedListII.java) | Medium     |
  94   | 2019-04-16 | Binary Tree Inorder Traversal | [java](src/main/java/leetcode/tree/BinaryTreeInorderTraversal.java) |
- 100  | 2022-04-03 | Same Tree | [java](src/main/java/leetcode/tree/SameTree.java) |
+ 100  | 2022-04-03 | Same Tree | [java](src/main/java/leetcode/tree/SameTree.java) | Easy     |
+ 101  | 2022-04-24 | Symmetric Tree | [java](src/main/java/leetcode/tree/SymmetricTree.java) | Easy     |
  103  | 2021-03-19 | Binary Tree Zigzag Level Order Traversal | [java](src/main/java/leetcode/BinaryTreeZigzagLevelOrderTraversal.java) |
  104  | 2021-03-16 | Maximum Depth of Binary Tree | [java](src/main/java/leetcode/MaximumDepthOfBinaryTree.java) |
  109  | 2020-08-18 | Convert Sorted List to Binary Search Tree | [java](src/main/java/leetcode/ConvertSortedListToBinarySearchTree.java) |
@@ -160,6 +161,8 @@
 720  | 2021-03-29 | Longest Word in Dictionary | [java](src/main/java/leetcode/LongestWordInDictionary.java) |
 102  | 2021-03-29 | Binary Tree Level Order Traversal | [java](src/main/java/leetcode/BinaryTreeLevelOrderTraversal.java) |
 429  | 2021-03-29 | N-ary Tree Level Order Traversal | [java](src/main/java/leetcode/NAryTreeLevelOrderTraversal.java) |
+61   | 2022-04-24 | Rotate List | [java](src/main/java/leetcode/array/RotateList.java) | Medium     |
+62   | 2022-04-24 | Unique Paths | [java](src/main/java/leetcode/array/RotateList.java) | Medium     |
 |
 208  | 2021-03-29 | Implement Trie (Prefix Tree) | [java](src/main/java/leetcode/ImplementTriePrefixTree.java) |
 
