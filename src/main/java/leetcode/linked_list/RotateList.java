@@ -6,7 +6,7 @@ import org.junit.Test;
 import static common.GenerateParams.genLinkedList;
 
 /**
- * Created by Cherie on 2022/04/24
+ * Created by Cherie on 2022/04/28
  * https://leetcode.com/problems/rotate-list/
  **/
 public class RotateList {
