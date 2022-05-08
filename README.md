@@ -68,7 +68,10 @@
  104  | 2021-03-16 | Maximum Depth of Binary Tree | [java](src/main/java/leetcode/MaximumDepthOfBinaryTree.java) |
  108  | 2022-04-24 | Convert Sorted Array to Binary Search Tree | [java](src/main/java/leetcode/tree/ConvertSortedArrayToBinarySearchTree.java) |
  109  | 2020-08-18 | Convert Sorted List to Binary Search Tree | [java](src/main/java/leetcode/ConvertSortedListToBinarySearchTree.java) |
+ 110  | 2022-05-08 | Balanced Binary Tree | [java](src/main/java/leetcode/tree/BalancedBinaryTree.java) |
  111  | 2021-03-19 | Minimum Depth of Binary Tree | [java](src/main/java/leetcode/MinimumDepthOfBinaryTree.java) |
+ 112  | 2022-05-08 | Path Sum | [java](src/main/java/leetcode/tree/PathSum.java) |
+ 118  | 2022-05-08 | Pascal's Triangle | [java](src/main/java/leetcode/PascalTriangle.java) |
  121  | 2021-04-07 | Best Time to Buy and Sell Stock | [java](src/main/java/leetcode/array/BestTimeToBuyAndSellStock.java) |
  122  | 2021-01-19 | Best Time To Buy And Sell Stock II | [java](src/main/java/leetcode/array/BestTimeToBuyAndSellStockII.java) |
  123  | 2021-04-07 | Best Time to Buy and Sell Stock III | [java](src/main/java/leetcode/array/BestTimeToBuyAndSellStockIII.java) |
