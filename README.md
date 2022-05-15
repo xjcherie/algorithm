@@ -55,7 +55,10 @@
  66   | 2021-02-04 | Plus One | [java](src/main/java/leetcode/PlusOne.java) |
  67   | 2021-03-20 | Add Binary | [java](src/main/java/leetcode/string/AddBinary.java) | Easy ❌    |
  69   | 2021-03-20 | Sqrt(x) | [java](src/main/java/leetcode/SqrtX.java) | Easy       |
+ 71   | 2022-05-15 | Simplify Path | [java](src/main/java/leetcode/string/SimplifyPath.java) | Medium ❌ |
  72   | 2020-05-31 | Edit Distance | [java](src/main/java/leetcode/string/EditDistance.java) | Hard       |
+ 73   | 2022-05-15 | Set Matrix Zeroes | [java](src/main/java/leetcode/array/SetMatrixZeroes.java) | Medium |
+ 74   | 2022-05-15 | Search a 2D Matrix | [java](src/main/java/leetcode/array/SearchA2DMatrix.java) | Medium  ❌ |
  78   | 2021-03-29 | Subsets | [java](src/main/java/leetcode/array/Subsets.java) |
  82   | 2020-08-14 | Remove Duplicates from Sorted List II | [java](src/main/java/leetcode/linked_list/RemoveDuplicatesFromSortedListII.java) | Medium     |
  83   | 2022-04-03 | Remove Duplicates from Sorted List | [java](src/main/java/leetcode/linked_list/RemoveDuplicatesFromSortedList.java) | Easy     |
