@@ -75,10 +75,12 @@
  111  | 2021-03-19 | Minimum Depth of Binary Tree | [java](src/main/java/leetcode/MinimumDepthOfBinaryTree.java) |
  112  | 2022-05-08 | Path Sum | [java](src/main/java/leetcode/tree/PathSum.java) |
  118  | 2022-05-08 | Pascal's Triangle | [java](src/main/java/leetcode/PascalTriangle.java) |
+ 119  | 2022-05-22 | Pascal's Triangle II | [java](src/main/java/leetcode/PascalTriangleII.java) |
  121  | 2021-04-07 | Best Time to Buy and Sell Stock | [java](src/main/java/leetcode/array/BestTimeToBuyAndSellStock.java) |
  122  | 2021-01-19 | Best Time To Buy And Sell Stock II | [java](src/main/java/leetcode/array/BestTimeToBuyAndSellStockII.java) |
  123  | 2021-04-07 | Best Time to Buy and Sell Stock III | [java](src/main/java/leetcode/array/BestTimeToBuyAndSellStockIII.java) |
  124  | 2020-04-29 | Binary Tree Maximum Path Sum | [java](src/main/java/leetcode/tree/BinaryTreeMaximumPathSum.java) |
+ 125  | 2020-05-22 | Valid Palindrome | [java](src/main/java/leetcode/string/ValidPalindrome.java) |
  146  | 2020-04-24 | LRU Cache | [java](src/main/java/leetcode/design/LRUCache.java) |
  169  | 2020-05-06 | Majority Element | [java](src/main/java/leetcode/array/MajorityElement.java) | 
  136  | 2020-04-01 | Single Number | [java](src/main/java/leetcode/hash_table/SingleNumber.java) |

@@ -83,12 +83,10 @@ public class SimplifyPath {
 
     @Test
     public void test() {
-//        assertThat(simplifyPath("/a/./b/../../c/"), equalTo("/c"));
-//        assertThat(simplifyPath("/a//b////c/d//././/.."), equalTo("/a/b/c"));
+        assertThat(simplifyPath("/a/./b/../../c/"), equalTo("/c"));
+        assertThat(simplifyPath("/a//b////c/d//././/.."), equalTo("/a/b/c"));
         assertThat(simplifyPath("/..hidden"), equalTo("/..hidden"));
         assertThat(simplifyPath("/hello../world"), equalTo("/hello../world"));
         assertThat(simplifyPath("/../"), equalTo("/"));
-
-
     }
 }
