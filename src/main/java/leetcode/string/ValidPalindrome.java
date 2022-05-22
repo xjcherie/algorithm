@@ -7,7 +7,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 /**
  * Created by Cherie on 2022/05/15
- * https://leetcode.com/problems/set-matrix-zeroes/
+ * https://leetcode.com/problems/valid-palindrome/
  **/
 public class ValidPalindrome {
     public boolean isPalindrome(String s) {
