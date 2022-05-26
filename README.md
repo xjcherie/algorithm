@@ -59,7 +59,7 @@
  72   | 2020-05-31 | Edit Distance | [java](src/main/java/leetcode/string/EditDistance.java) | Hard       |
  73   | 2022-05-15 | Set Matrix Zeroes | [java](src/main/java/leetcode/array/SetMatrixZeroes.java) | Medium |
  74   | 2022-05-15 | Search a 2D Matrix | [java](src/main/java/leetcode/array/SearchA2DMatrix.java) | Medium  ❌ |
- 75   | 2022-05-26 | Sort Colors | [java](src/main/java/leetcode/array/SortColors.java) | Medium  ❌ |
+ 75   | 2022-05-26 | Sort Colors | [java](src/main/java/leetcode/array/SortColors.java) | Medium |
  78   | 2021-03-29 | Subsets | [java](src/main/java/leetcode/array/Subsets.java) |
  82   | 2020-08-14 | Remove Duplicates from Sorted List II | [java](src/main/java/leetcode/linked_list/RemoveDuplicatesFromSortedListII.java) | Medium     |
  83   | 2022-04-03 | Remove Duplicates from Sorted List | [java](src/main/java/leetcode/linked_list/RemoveDuplicatesFromSortedList.java) | Easy     |
