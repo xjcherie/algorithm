@@ -1,7 +1,7 @@
 ## LeetCode Schedule
 
- \#   | Date       | Title        | Solution   | Difficulty |
-------|------------|--------------|------------|------------|
+ \#   | Date       | Title       | Solution   | Difficulty |
+------|------------|-------------|------------|------------|
  1    | 2021-02-20 | Two Sum | [java](src/main/java/leetcode/array/TwoSum.java) |
  2    | 2018-07-15 | Add Two Numbers | [java](src/main/java/leetcode/linked_list/AddTwoNumbers.java) | Medium     |
  3    | 2022-01-25 | Longest Substring Without Repeating Characters | [java](src/main/java/leetcode/string/LongestSubstring.java) | Medium |
@@ -59,6 +59,7 @@
  72   | 2020-05-31 | Edit Distance | [java](src/main/java/leetcode/string/EditDistance.java) | Hard       |
  73   | 2022-05-15 | Set Matrix Zeroes | [java](src/main/java/leetcode/array/SetMatrixZeroes.java) | Medium |
  74   | 2022-05-15 | Search a 2D Matrix | [java](src/main/java/leetcode/array/SearchA2DMatrix.java) | Medium  ❌ |
+ 75   | 2022-05-26 | Sort Colors | [java](src/main/java/leetcode/array/SortColors.java) | Medium  ❌ |
  78   | 2021-03-29 | Subsets | [java](src/main/java/leetcode/array/Subsets.java) |
  82   | 2020-08-14 | Remove Duplicates from Sorted List II | [java](src/main/java/leetcode/linked_list/RemoveDuplicatesFromSortedListII.java) | Medium     |
  83   | 2022-04-03 | Remove Duplicates from Sorted List | [java](src/main/java/leetcode/linked_list/RemoveDuplicatesFromSortedList.java) | Easy     |
