@@ -147,6 +147,7 @@
  1143 | 2020-04-26 | Longest Common Subsequence | [java](src/main/java/leetcode/LongestCommonSubsequence.java) | Medium     |
  1232 | 2020-05-08 | Check If It Is a Straight Line | [java](src/main/java/leetcode/array/CheckIfItIsAStraightLine.java) |
  1277 | 2020-05-21 | Count Square Submatrices with All Ones | [java](src/main/java/leetcode/array/CountSquareSubmatricesWithAllOnes.java) | Medium     |
+ 2109 | 2022-05-27 | Adding Spaces to a String | [java](src/main/java/leetcode/array/AddingSpacesToAString.java)                          | Medium |
  \#   | 2020-04-30 | Check String Is a Valid Sequence | [java](src/main/java/leetcode/tree/CheckStringIsAValidSequence.java) |
  \#   | 2020-04-28 | First Unique Number | [java](src/main/java/leetcode/hash_table/FirstUnique.java) |
  \#   | 2020-04-21 | Leftmost Column with at Least a One | [java](src/main/java/leetcode/array/LeftmostColumnWithAtLeastAOne.java) |

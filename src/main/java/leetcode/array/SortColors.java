@@ -4,7 +4,7 @@ import org.junit.Test;
 
 /**
  * @Author: Cherie
- * @Date: 2022/May/26
+ * @Date: 2022-05-26
  * https://leetcode.com/problems/sort-colors/
  */
 public class SortColors {
