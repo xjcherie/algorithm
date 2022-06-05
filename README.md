@@ -1,7 +1,7 @@
 ## LeetCode Schedule
 
- \#   | Date       | Title       | Solution   | Difficulty |
-------|------------|-------------|------------|------------|
+ \#   | Date       | Title      | Solution   | Difficulty |
+------|------------|------------|------------|------------|
  1    | 2021-02-20 | Two Sum | [java](src/main/java/leetcode/array/TwoSum.java) |
  2    | 2018-07-15 | Add Two Numbers | [java](src/main/java/leetcode/linked_list/AddTwoNumbers.java) | Medium     |
  3    | 2022-01-25 | Longest Substring Without Repeating Characters | [java](src/main/java/leetcode/string/LongestSubstring.java) | Medium |
@@ -83,6 +83,8 @@
  123  | 2021-04-07 | Best Time to Buy and Sell Stock III | [java](src/main/java/leetcode/array/BestTimeToBuyAndSellStockIII.java) |
  124  | 2020-04-29 | Binary Tree Maximum Path Sum | [java](src/main/java/leetcode/tree/BinaryTreeMaximumPathSum.java) |
  125  | 2020-05-22 | Valid Palindrome | [java](src/main/java/leetcode/string/ValidPalindrome.java) |
+ 144  | 2020-06-05 | Binary Tree Preorder Traversal | [java](src/main/java/leetcode/tree/BinaryTreePreorderTraversal.java) |
+ 145  | 2020-06-05 | Binary Tree Postorder Traversal | [java](src/main/java/leetcode/tree/BinaryTreePostorderTraversal.java) |
  146  | 2020-04-24 | LRU Cache | [java](src/main/java/leetcode/design/LRUCache.java) |
  169  | 2020-05-06 | Majority Element | [java](src/main/java/leetcode/array/MajorityElement.java) | 
  136  | 2020-04-01 | Single Number | [java](src/main/java/leetcode/hash_table/SingleNumber.java) |
