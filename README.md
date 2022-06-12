@@ -62,6 +62,9 @@
  75   | 2022-05-26 | Sort Colors | [java](src/main/java/leetcode/array/SortColors.java) | Medium |
  77   | 2022-05-28 | Combinations | [java](src/main/java/leetcode/array/Combinations.java) | Medium | 
  78   | 2021-03-29 | Subsets | [java](src/main/java/leetcode/array/Subsets.java) |
+ 79   | 2022-06-12 | Word Search | [java](src/main/java/leetcode/array/WordSearch.java) |
+ 80   | 2022-06-12 | Remove Duplicates from Sorted Array II | [java](src/main/java/leetcode/array/RemoveDuplicatesFromSortedArrayII.java) |
+ 81   | 2022-06-12 | Search in Rotated Sorted Array II | [java](src/main/java/leetcode/array/SearchInRotatedSortedArrayII.java) |  ❌ |
  82   | 2020-08-14 | Remove Duplicates from Sorted List II | [java](src/main/java/leetcode/linked_list/RemoveDuplicatesFromSortedListII.java) | Medium     |
  83   | 2022-04-03 | Remove Duplicates from Sorted List | [java](src/main/java/leetcode/linked_list/RemoveDuplicatesFromSortedList.java) | Easy     |
  88   | 2022-04-03 | Merge Sorted Array | [java](src/main/java/leetcode/array/MergeSortedArray.java) | Easy     |
