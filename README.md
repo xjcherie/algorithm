@@ -69,6 +69,7 @@
 | 83   | 2022-04-03 | Remove Duplicates from Sorted List                      | [java](src/main/java/leetcode/linked_list/RemoveDuplicatesFromSortedList.java)           | Easy       |
 | 86   | 2022-06-22 | Partition List                                          | [java](src/main/java/leetcode/linked_list/PartitionList.java)                            | Medium     |
 | 88   | 2022-04-03 | Merge Sorted Array                                      | [java](src/main/java/leetcode/array/MergeSortedArray.java)                               | Easy       |
+| 89   | 2022-06-26 | Gray Code                                               | [java](src/main/java/leetcode/array/GrayCode.java)                                       | Medium ❌   |
 | 92   | 2020-08-13 | Reverse Linked List II                                  | [java](src/main/java/leetcode/linked_list/ReverseLinkedListII.java)                      | Medium     |
 | 94   | 2019-04-16 | Binary Tree Inorder Traversal                           | [java](src/main/java/leetcode/tree/BinaryTreeInorderTraversal.java)                      |            |
 | 100  | 2022-04-03 | Same Tree                                               | [java](src/main/java/leetcode/tree/SameTree.java)                                        | Easy       |
