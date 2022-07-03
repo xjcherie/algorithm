@@ -3,7 +3,7 @@
 | \#   | Date       | Title                                                   | Solution                                                                                 | Difficulty |
 |------|------------|---------------------------------------------------------|------------------------------------------------------------------------------------------|------------|
 | 1    | 2021-02-20 | Two Sum                                                 | [java](src/main/java/leetcode/array/TwoSum.java)                                         |            |
-| 2    | 2018-07-15 | Add Two Numbers                                         | [java](src/main/java/leetcode/linked_list/AddTwoNumbers.java)                            | Medium     |
+| 2    | 2018-07-15 | Add Two Numbers                                         | [java](src/main/java/leetcode/linkedlist/AddTwoNumbers.java)                             | Medium     |
 | 3    | 2022-01-25 | Longest Substring Without Repeating Characters          | [java](src/main/java/leetcode/string/LongestSubstring.java)                              | Medium     |
 | 5    | 2022-01-27 | Longest Palindromic Substring                           | [java](src/main/java/leetcode/string/LongestPalindromicSubstring.java)                   | Medium     |
 | 6    | 2022-01-29 | Zigzag Conversion                                       | [java](src/main/java/leetcode/string/ZigzagConversion.java)                              | Medium     |
@@ -18,7 +18,7 @@
 | 16   | 2022-02-11 | 3Sum Closest                                            | [java](src/main/java/leetcode/integer/Sum3Closest.java)                                  |            |
 | 17   | 2022-02-16 | Letter Combinations of a Phone Number                   | [java](src/main/java/leetcode/string/LetterCombinationsOfPhoneNumber.java)               |            |
 | 18   | 2022-02-17 | 4Sum                                                    | [java](src/main/java/leetcode/integer/Sum4.java)                                         |            |
-| 19   | 2022-02-17 | Remove Nth Node From End of List                        | [java](src/main/java/leetcode/linked_list/RemoveNthNodeFromEndOfList.java)               |            |
+| 19   | 2022-02-17 | Remove Nth Node From End of List                        | [java](src/main/java/leetcode/linkedlist/RemoveNthNodeFromEndOfList.java)                |            |
 | 20   | 2020-03-24 | Valid Parentheses                                       | [java](src/main/java/leetcode/stack/ValidParentheses.java)                               |            |
 | 21   | 2022-02-06 | Merge Two Sorted Lists                                  | [java](src/main/java/leetcode/list/MergeTwoSortedLists.java)                             | Easy       |
 | 22   | 2022-02-22 | Generate Parentheses                                    | [java](src/main/java/leetcode/string/GenerateParentheses.java)                           | Medium     |
@@ -48,7 +48,7 @@
 | 57   | 2022-04-13 | Insert Interval                                         | [java](src/main/java/leetcode/array/InsertInterval.java)                                 | Medium     |
 | 58   | 2022-03-20 | Length of Last Word                                     | [java](src/main/java/leetcode/string/LengthOfLastWord.java)                              | Easy       |
 | 59   | 2022-04-23 | Spiral Matrix II                                        | [java](src/main/java/leetcode/array/SpiralMatrixII.java)                                 | Medium     |
-| 61   | 2022-04-28 | Rotate List                                             | [java](src/main/java/leetcode/linked_list/RotateList.java)                               | Medium  🌟 |
+| 61   | 2022-04-28 | Rotate List                                             | [java](src/main/java/leetcode/linkedlist/RotateList.java)                                | Medium  🌟 |
 | 62   | 2022-04-28 | Unique Paths                                            | [java](src/main/java/leetcode/array/UniquePaths.java)                                    | Medium     |
 | 63   | 2022-04-28 | Unique Paths II                                         | [java](src/main/java/leetcode/array/UniquePaths.java)                                    | Medium     |
 | 64   | 2020-04-18 | Minimum Path Sum                                        | [java](src/main/java/leetcode/array/MinimumPathSum.java)                                 | Medium     |
@@ -65,12 +65,13 @@
 | 79   | 2022-06-12 | Word Search                                             | [java](src/main/java/leetcode/array/WordSearch.java)                                     |            |
 | 80   | 2022-06-12 | Remove Duplicates from Sorted Array II                  | [java](src/main/java/leetcode/array/RemoveDuplicatesFromSortedArrayII.java)              |            |
 | 81   | 2022-06-12 | Search in Rotated Sorted Array II                       | [java](src/main/java/leetcode/array/SearchInRotatedSortedArrayII.java)                   | ❌          |
-| 82   | 2020-08-14 | Remove Duplicates from Sorted List II                   | [java](src/main/java/leetcode/linked_list/RemoveDuplicatesFromSortedListII.java)         | Medium     |
-| 83   | 2022-04-03 | Remove Duplicates from Sorted List                      | [java](src/main/java/leetcode/linked_list/RemoveDuplicatesFromSortedList.java)           | Easy       |
-| 86   | 2022-06-22 | Partition List                                          | [java](src/main/java/leetcode/linked_list/PartitionList.java)                            | Medium     |
+| 82   | 2020-08-14 | Remove Duplicates from Sorted List II                   | [java](src/main/java/leetcode/linkedlist/RemoveDuplicatesFromSortedListII.java)          | Medium     |
+| 83   | 2022-04-03 | Remove Duplicates from Sorted List                      | [java](src/main/java/leetcode/linkedlist/RemoveDuplicatesFromSortedList.java)            | Easy       |
+| 86   | 2022-06-22 | Partition List                                          | [java](src/main/java/leetcode/linkedlist/PartitionList.java)                             | Medium     |
 | 88   | 2022-04-03 | Merge Sorted Array                                      | [java](src/main/java/leetcode/array/MergeSortedArray.java)                               | Easy       |
 | 89   | 2022-06-26 | Gray Code                                               | [java](src/main/java/leetcode/array/GrayCode.java)                                       | Medium ❌   |
-| 92   | 2020-08-13 | Reverse Linked List II                                  | [java](src/main/java/leetcode/linked_list/ReverseLinkedListII.java)                      | Medium     |
+| 90   | 2022-06-26 | Subsets II                                              | [java](src/main/java/leetcode/array/SubsetsII.java)                                      | Medium ❌   |
+| 92   | 2020-08-13 | Reverse Linked List II                                  | [java](src/main/java/leetcode/linkedlist/ReverseLinkedListII.java)                       | Medium     |
 | 94   | 2019-04-16 | Binary Tree Inorder Traversal                           | [java](src/main/java/leetcode/tree/BinaryTreeInorderTraversal.java)                      |            |
 | 100  | 2022-04-03 | Same Tree                                               | [java](src/main/java/leetcode/tree/SameTree.java)                                        | Easy       |
 | 101  | 2022-04-24 | Symmetric Tree                                          | [java](src/main/java/leetcode/tree/SymmetricTree.java)                                   | Easy       |
@@ -88,9 +89,11 @@
 | 123  | 2021-04-07 | Best Time to Buy and Sell Stock III                     | [java](src/main/java/leetcode/array/BestTimeToBuyAndSellStockIII.java)                   |            |
 | 124  | 2020-04-29 | Binary Tree Maximum Path Sum                            | [java](src/main/java/leetcode/tree/BinaryTreeMaximumPathSum.java)                        |            |
 | 125  | 2020-05-22 | Valid Palindrome                                        | [java](src/main/java/leetcode/string/ValidPalindrome.java)                               |            |
+| 141  | 2022-07-03 | Linked List Cycle                                       | [java](src/main/java/leetcode/linkedlist/LinkedListCycle.java)                           |            |
 | 144  | 2020-06-05 | Binary Tree Preorder Traversal                          | [java](src/main/java/leetcode/tree/BinaryTreePreorderTraversal.java)                     |            |
 | 145  | 2020-06-05 | Binary Tree Postorder Traversal                         | [java](src/main/java/leetcode/tree/BinaryTreePostorderTraversal.java)                    |            |
 | 146  | 2020-04-24 | LRU Cache                                               | [java](src/main/java/leetcode/design/LRUCache.java)                                      |            |
+| 160  | 2022-07-03 | Intersection of Two Linked Lists                        | [java](src/main/java/leetcode/linkedlist/IntersectionOfTwoLinkedLists.java)              |            |
 | 169  | 2020-05-06 | Majority Element                                        | [java](src/main/java/leetcode/array/MajorityElement.java)                                |            |
 | 136  | 2020-04-01 | Single Number                                           | [java](src/main/java/leetcode/hash_table/SingleNumber.java)                              |            |
 | 155  | 2020-04-10 | Min Stack                                               | [java](src/main/java/leetcode/stack/MinStack.java)                                       |            |
@@ -98,7 +101,7 @@
 | 200  | 2021-03-23 | Number of Islands                                       | [java](src/main/java/leetcode/NumberOfIslands.java)                                      |            |
 | 201  | 2020-04-23 | Bitwise AND of Numbers Range                            | [java](src/main/java/leetcode/BitwiseANDOfNumbersRange.java)                             |            |
 | 202  | 2020-04-02 | Happy Number                                            | [java](src/main/java/leetcode/hash_table/HappyNumber.java)                               |            |
-| 203  | 2020-08-17 | Remove Linked List Elements                             | [java](src/main/java/leetcode/linked_list/RemoveLinkedListElements.java)                 | Easy       |
+| 203  | 2020-08-17 | Remove Linked List Elements                             | [java](src/main/java/leetcode/linkedlist/RemoveLinkedListElements.java)                  | Easy       |
 | 208  | 2020-05-14 | Implement Trie (Prefix Tree)                            | [java](src/main/java/leetcode/Trie.java)                                                 |            |
 | 207  | 2020-05-31 | Course Schedule                                         | [java](src/main/java/leetcode/CourseSchedule.java)                                       |            |
 | 217  | 2021-02-02 | Contains Duplicate                                      | [java](src/main/java/leetcode/ContainsDuplicate.java)                                    |            |
@@ -111,7 +114,7 @@
 | 278  | 2020-05-01 | First Bad Version                                       | [java](src/main/java/leetcode/binary_search/FirstBadVersion.java)                        |            |
 | 283  | 2021-02-07 | Move Zeroes                                             | [java](src/main/java/leetcode/MoveZeroes.java)                                           |            |
 | 283  | 2020-04-04 | Move Zeroes                                             | [java](src/main/java/leetcode/array/MoveZeroes.java)                                     |            |
-| 328  | 2020-05-16 | Odd Even Linked List                                    | [java](src/main/java/leetcode/linked_list/OddEvenLinkedList.java)                        | Medium     |
+| 328  | 2020-05-16 | Odd Even Linked List                                    | [java](src/main/java/leetcode/linkedlist/OddEvenLinkedList.java)                         | Medium     |
 | 338  | 2020-05-28 | Counting Bits                                           | [java](src/main/java/leetcode/CountingBits.java)                                         | Medium     |
 | 350  | 2021-02-03 | Intersection Of Two Arrays II                           | [java](src/main/java/leetcode/IntersectionOfTwoArraysII.java)                            |            |
 | 367  | 2020-05-09 | Valid Perfect Square                                    | [java](src/main/java/leetcode/binary_search/ValidPerfectSquare.java)                     |            |
@@ -138,7 +141,7 @@
 | 789  | 2019-09-01 | Escape The Ghosts                                       | [java](src/main/java/leetcode/math/EscapeTheGhosts.java)                                 |            |
 | 844  | 2020-04-09 | Backspace String Compare                                | [java](src/main/java/leetcode/stack/BackspaceStringCompare.java)                         |            |
 | 807  | 2019-04-14 | Max Increase to Keep City Skyline                       | [java](src/main/java/leetcode/MaxIncreaseKeepCitySkyline.java)                           |            |
-| 876  | 2020-04-08 | Middle of the Linked List                               | [java](src/main/java/leetcode/linked_list/MiddleOfTheLinkedList.java)                    | Easy       |
+| 876  | 2020-04-08 | Middle of the Linked List                               | [java](src/main/java/leetcode/linkedlist/MiddleOfTheLinkedList.java)                     | Easy       |
 | 886  | 2020-05-27 | Possible Bipartition                                    | [java](src/main/java/leetcode/graph/PossibleBipartition.java)                            |            |
 | 901  | 2020-05-19 | Online Stock Span                                       | [java](src/main/java/leetcode/StockSpanner.java)                                         |            |
 | 918  | 2020-05-15 | Maximum Sum Circular Subarray                           | [java](src/main/java/leetcode/MaximumSumCircularSubarray.java)                           |            |
