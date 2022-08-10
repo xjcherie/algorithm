@@ -74,7 +74,7 @@
 | 92   | 2020-08-13 | Reverse Linked List II                                  | [java](src/main/java/leetcode/linkedlist/ReverseLinkedListII.java)                       | Medium     |
 | 94   | 2019-04-16 | Binary Tree Inorder Traversal                           | [java](src/main/java/leetcode/tree/BinaryTreeInorderTraversal.java)                      |            |
 | 95   | 2022-08-04 | Unique Binary Search Trees II                           | [java](src/main/java/leetcode/tree/UniqueBinarySearchTreesII.java)                       | Medium     |
-| 96   | 2022-08-04 | Unique Binary Search Trees                              | [java](src/main/java/leetcode/tree/UniqueBinarySearchTrees.java)                         | Medium     |
+| 96   | 2022-08-04 | Unique Binary Search Trees                              | [java](src/main/java/leetcode/tree/UniqueBinarySearchTrees.java)                         | Medium ❌   |
 | 97   | 2022-07-19 | Interleaving String                                     | [java](src/main/java/leetcode/string/InterleavingString.java)                            | Medium ❌   |
 | 98   | 2022-07-17 | Validate Binary Search Tree                             | [java](src/main/java/leetcode/tree/ValidateBinarySearchTree.java)                        | Medium     |
 | 99   | 2022-07-10 | Recover Binary Search Tree                              | [java](src/main/java/leetcode/tree/RecoverBinarySearchTree.java)                         | Medium     |
