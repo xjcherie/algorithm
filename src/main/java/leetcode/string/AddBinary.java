@@ -1,9 +1,7 @@
 package leetcode.string;
 
 
-import com.sun.xml.internal.ws.util.StringUtils;
 import org.junit.Test;
-import org.mockito.internal.util.StringUtil;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.MatcherAssert.assertThat;
