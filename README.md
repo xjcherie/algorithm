@@ -170,7 +170,7 @@
 | \#   | 2020-04-21 | Leftmost Column with at Least a One                     | [java](src/main/java/leetcode/array/LeftmostColumnWithAtLeastAOne.java)                  |            |
 | \#   | 2020-04-07 | Counting Elements                                       | [java](src/main/java/leetcode/array/CountingElements.java)                               |            |
 | \#   | 2020-04-15 | Perform String Shifts                                   | [java](src/main/java/leetcode/array/PerformStringShifts.java)                            |            |
-| \#   | 2022-08-12 | Sort Book Chapters                                      | [java](src/main/java/practice/BookChaptersSort.java)                                     |            |
+| \#   | 2022-08-12 | Sort Book Chapters                                      | [java](src/main/java/practice/SortBookChapters.java)                                     |            |
 
 
 TODOList
