@@ -72,7 +72,7 @@
 | 89   | 2022-06-26 | Gray Code                                               | [java](src/main/java/leetcode/array/GrayCode.java)                                       | Medium ❌   |
 | 90   | 2022-06-26 | Subsets II                                              | [java](src/main/java/leetcode/array/SubsetsII.java)                                      | Medium ❌   |
 | 92   | 2020-08-13 | Reverse Linked List II                                  | [java](src/main/java/leetcode/linkedlist/ReverseLinkedListII.java)                       | Medium     |
-| 93   | 2022-08-10 | Restore IP Addresses                                    | [java](src/main/java/leetcode/string/RestoreIPAddresses.java)                            | Medium     |
+| 93   | 2022-08-10 | Restore IP Addresses                                    | [java](src/main/java/leetcode/string/RestoreIpAddresses.java)                            | Medium     |
 | 94   | 2019-04-16 | Binary Tree Inorder Traversal                           | [java](src/main/java/leetcode/tree/BinaryTreeInorderTraversal.java)                      |            |
 | 95   | 2022-08-04 | Unique Binary Search Trees II                           | [java](src/main/java/leetcode/tree/UniqueBinarySearchTreesII.java)                       | Medium     |
 | 96   | 2022-08-04 | Unique Binary Search Trees                              | [java](src/main/java/leetcode/tree/UniqueBinarySearchTrees.java)                         | Medium ❌   |
