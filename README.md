@@ -71,6 +71,7 @@
 | 88   | 2022-04-03 | Merge Sorted Array                                      | [java](src/main/java/leetcode/array/MergeSortedArray.java)                               | Easy       |
 | 89   | 2022-06-26 | Gray Code                                               | [java](src/main/java/leetcode/array/GrayCode.java)                                       | Medium ❌   |
 | 90   | 2022-06-26 | Subsets II                                              | [java](src/main/java/leetcode/array/SubsetsII.java)                                      | Medium ❌   |
+| 91   | 2022-08-28 | Decode Ways                                             | [java](src/main/java/leetcode/string/DecodeWays.java)                                    | Medium ❌   |
 | 92   | 2020-08-13 | Reverse Linked List II                                  | [java](src/main/java/leetcode/linkedlist/ReverseLinkedListII.java)                       | Medium     |
 | 93   | 2022-08-10 | Restore IP Addresses                                    | [java](src/main/java/leetcode/string/RestoreIpAddresses.java)                            | Medium     |
 | 94   | 2019-04-16 | Binary Tree Inorder Traversal                           | [java](src/main/java/leetcode/tree/BinaryTreeInorderTraversal.java)                      |            |
