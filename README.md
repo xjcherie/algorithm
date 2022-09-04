@@ -104,6 +104,7 @@
 | 169  | 2020-05-06 | Majority Element                                        | [java](src/main/java/leetcode/array/MajorityElement.java)                                |            |
 | 136  | 2020-04-01 | Single Number                                           | [java](src/main/java/leetcode/hash_table/SingleNumber.java)                              |            |
 | 155  | 2020-04-10 | Min Stack                                               | [java](src/main/java/leetcode/stack/MinStack.java)                                       |            |
+| 171  | 2022-09-04 | Excel Sheet Column Number                               | [java](src/main/java/leetcode/string/ExcelSheetColumnNumber.java)                        | Easy       |
 | 200  | 2020-04-17 | Number of Islands                                       | [java](src/main/java/leetcode/depth_first_search/NumberOfIslands.java)                   |            |
 | 200  | 2021-03-23 | Number of Islands                                       | [java](src/main/java/leetcode/NumberOfIslands.java)                                      |            |
 | 201  | 2020-04-23 | Bitwise AND of Numbers Range                            | [java](src/main/java/leetcode/BitwiseANDOfNumbersRange.java)                             |            |
